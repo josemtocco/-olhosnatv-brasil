@@ -1,45 +1,91 @@
-# Olhos na TV — Brasil Português
+# Olhos na TV — M3U por categorias
 
-Gerador automático de uma lista M3U baseada nas páginas públicas do site Olhos na TV.
+Projeto para gerar automaticamente uma playlist M3U a partir das páginas públicas do Olhos na TV.
 
 Fonte:
 https://www.olhosnatv.com.br/
 
-## Arquivos
+## O que esta versão faz
 
-- `gerar_m3u.py` — coleta páginas e procura URLs públicas de streams.
-- `olhosnatv-brasil.m3u` — lista final.
-- `requirements.txt` — dependências.
-- `.github/workflows/atualizar.yml` — atualização automática.
+A lista não fica limitada a "TVs Abertas".
 
-## Como colocar no GitHub
+O gerador lê as categorias do próprio site e associa cada canal às categorias publicadas em sua página.
 
-Crie um repositório chamado, por exemplo:
+Categorias atualmente apresentadas pelo site incluem:
 
-`olhosnatv-brasil`
+- TVs Abertas
+- Filmes
+- Seriados
+- Clássicos
+- Desenhos
+- Variedades
+- Notícias
+- Animes
+- Novelas
+- Esportes
+- Músicas
+- Faroestes
+- Evangélicos
+- Documentários
+- Católicos
+- Videoclipes Musical
+- Kids
+- Filmes Gospel
+- Notícias do Mundo
+- Pegadinhas
+- Educativos
+- Agronégocios
+- Animais
+- Governamentais
+- Espíritas
+- Culinárias
+- Automóveis
+- Televendas
 
-No usuário:
+Se o site adicionar ou remover categorias, o gerador tenta acompanhar os rótulos publicados.
 
-`josemtocco`
+## Organização da M3U
 
-Envie estes arquivos mantendo exatamente a estrutura de pastas.
+Cada entrada recebe `group-title` conforme a categoria do site:
 
-Depois abra:
+```text
+#EXTM3U
 
-**Actions → Atualizar M3U - Olhos na TV Brasil → Run workflow**
+#EXTINF:-1 group-title="TVs Abertas" tvg-country="BR" tvg-language="Portuguese",SBT
+https://...
 
-O workflow também executará automaticamente quatro vezes por dia.
+#EXTINF:-1 group-title="TVs Abertas" tvg-country="BR" tvg-language="Portuguese",BAND
+https://...
+
+#EXTINF:-1 group-title="Filmes" tvg-country="BR" tvg-language="Portuguese",...
+https://...
+```
+
+Um mesmo canal pode aparecer em mais de uma categoria quando o próprio site publica mais de um rótulo para ele.
+
+## GitHub
+
+Repositório sugerido:
+
+`josemtocco/olhosnatv-categorias`
+
+Depois de enviar os arquivos, execute:
+
+**Actions → Atualizar M3U - Olhos na TV → Run workflow**
+
+O workflow também roda automaticamente quatro vezes por dia.
 
 ## URL para o SS IPTV
 
-Depois que o arquivo existir na branch `main`, a URL será:
+Se o repositório for `josemtocco/olhosnatv-categorias` e a branch for `main`:
 
-https://raw.githubusercontent.com/josemtocco/olhosnatv-brasil/main/olhosnatv-brasil.m3u
+https://raw.githubusercontent.com/josemtocco/olhosnatv-categorias/main/olhosnatv.m3u
 
-Se você escolher outro nome para o repositório, altere somente essa parte da URL.
+Essa é a URL para cadastrar como playlist no SS IPTV.
 
-## Importante
+## Observações
 
-O site pode mudar a estrutura HTML, o player ou os endereços dos streams. O gerador procura URLs públicas diretamente presentes nas páginas, incluindo formatos como M3U8 e MPEG-DASH. Players que escondem o endereço atrás de JavaScript, tokens temporários ou outros mecanismos podem não produzir uma URL M3U direta.
-
-A lista não tenta contornar autenticação, DRM ou restrições de acesso. Use apenas streams públicos e cuja redistribuição seja autorizada.
+- O gerador trabalha com páginas e streams públicos encontrados no site.
+- Não tenta contornar login, DRM ou proteção de acesso.
+- Um player que esconda o stream atrás de JavaScript, token temporário ou DRM pode não fornecer uma URL M3U direta.
+- O conteúdo da playlist depende do que estiver publicado e acessível no Olhos na TV no momento da execução.
