@@ -12,7 +12,9 @@ CATEGORY_PAGE = urljoin(BASE_URL, "p/blog-page.html")
 OUTPUT = Path("olhosnatv.m3u")
 MAX_PAGES = 1000
 TIMEOUT = 25
-SLEEP = 0.08
+STREAM_TIMEOUT = 12
+SLEEP = 0.06
+MAX_STREAM_TESTS = 500
 
 KNOWN_LABELS = [
     "TVs Abertas", "Filmes", "Seriados", "Clássicos", "Desenhos",
@@ -32,12 +34,13 @@ STREAM_PATTERNS = [
 
 session = requests.Session()
 session.headers.update({
-    "User-Agent": "Mozilla/5.0 (compatible; OlhosNaTV-M3U-Generator/3.0)"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/140 Safari/537.36",
+    "Accept": "*/*",
 })
 
-def fetch(url):
+def fetch(url, timeout=TIMEOUT):
     try:
-        r = session.get(url, timeout=TIMEOUT)
+        r = session.get(url, timeout=timeout)
         r.raise_for_status()
         return r.text, r.url
     except requests.RequestException as exc:
@@ -56,20 +59,13 @@ def clean(text):
 def normalize_name(text):
     text = clean(unquote(text))
     text = re.sub(r"\s*[-|]\s*Olhos na TV.*$", "", text, flags=re.I)
-    text = re.sub(r"\s*\|\s*.*$", "", text) if text.lower().startswith("olhos na tv") else text
     return text.strip(" -|")
 
 def get_channel_name(soup):
-    # 1. Estrutura padrão de post do Blogger.
     selectors = [
-        "h3.post-title.entry-title",
-        "h2.post-title.entry-title",
-        "h1.post-title.entry-title",
-        ".post-title.entry-title",
-        ".post-title",
-        "article h1",
-        "article h2",
-        "article h3",
+        "h3.post-title.entry-title", "h2.post-title.entry-title",
+        "h1.post-title.entry-title", ".post-title.entry-title",
+        ".post-title", "article h1", "article h2", "article h3"
     ]
     for selector in selectors:
         tag = soup.select_one(selector)
@@ -78,24 +74,15 @@ def get_channel_name(soup):
             if name and name.lower() not in {"postagens", "categorias", "olhos na tv"}:
                 return name
 
-    # 2. Meta og:title costuma conter exatamente o título da postagem.
     meta = soup.find("meta", attrs={"property": "og:title"})
     if meta and meta.get("content"):
         name = normalize_name(meta["content"])
-        if name and name.lower() not in {"olhos na tv", "assistir tv online grátis - olhos na tv"}:
+        if name and "olhos na tv" not in name.lower():
             return name
 
-    # 3. Título HTML, removendo o nome do site.
     if soup.title:
         name = normalize_name(soup.title.get_text(" ", strip=True))
-        if name and name.lower() not in {"olhos na tv", "assistir tv online grátis"}:
-            return name
-
-    # 4. Último recurso: procurar headings, mas ignorar elementos do layout.
-    for tag in soup.find_all(["h1", "h2", "h3"]):
-        classes = " ".join(tag.get("class", []))
-        name = normalize_name(tag.get_text(" ", strip=True))
-        if "post-title" in classes and name:
+        if name and "olhos na tv" not in name.lower():
             return name
 
     return "Canal sem nome"
@@ -103,16 +90,13 @@ def get_channel_name(soup):
 def extract_streams(html, page_url):
     soup = BeautifulSoup(html, "html.parser")
     found = []
-
     for pattern in STREAM_PATTERNS:
         found.extend(re.findall(pattern, html, flags=re.I))
-
     for tag in soup.find_all(["iframe", "video", "source"]):
         for attr in ("src", "data-src", "data-url", "data-video", "data-stream"):
             value = tag.get(attr)
             if value:
                 found.append(urljoin(page_url, value))
-
     return list(dict.fromkeys(x.replace("\\/", "/") for x in found))
 
 def extract_page_links(html, page_url):
@@ -137,15 +121,64 @@ def discover_category_urls(html, page_url):
 def get_labels(soup):
     labels = []
     for a in soup.find_all("a", href=True):
-        href = a["href"]
-        if "/search/label/" in href:
+        if "/search/label/" in a["href"]:
             text = clean(a.get_text(" ", strip=True))
-            if text and text in KNOWN_LABELS and text not in labels:
+            if text in KNOWN_LABELS and text not in labels:
                 labels.append(text)
     return labels
 
 def looks_like_post(url):
     return bool(re.search(r"/\d{4}/\d{2}/[^/]+\.html$", urlparse(url).path, re.I))
+
+def probe_stream(url):
+    """Returns True only when the URL responds like a playable public stream."""
+    try:
+        r = session.get(
+            url,
+            timeout=STREAM_TIMEOUT,
+            stream=True,
+            allow_redirects=True,
+            headers={
+                "User-Agent": session.headers["User-Agent"],
+                "Accept": "*/*",
+                "Range": "bytes=0-4095",
+            },
+        )
+        status = r.status_code
+        ctype = (r.headers.get("content-type") or "").lower()
+        first = b""
+        try:
+            first = next(r.iter_content(chunk_size=4096), b"")
+        finally:
+            r.close()
+
+        if status not in (200, 206):
+            return False
+
+        path = urlparse(r.url).path.lower()
+
+        # HLS: require an actual playlist signature, not merely HTTP 200.
+        if ".m3u8" in path or "mpegurl" in ctype or "vnd.apple.mpegurl" in ctype:
+            sample = first.decode("utf-8", errors="ignore")
+            return "#EXTM3U" in sample
+
+        # DASH: require an MPD/XML signature.
+        if ".mpd" in path or "dash" in ctype:
+            sample = first.decode("utf-8", errors="ignore").lower()
+            return "<mpd" in sample or "<?xml" in sample
+
+        # MPEG-TS / media files: a successful byte response is enough for this
+        # lightweight check; a player still decides final compatibility.
+        if any(x in ctype for x in ("video/", "audio/", "octet-stream", "mpeg")):
+            return len(first) > 0
+
+        # Some CDNs omit Content-Type. For known stream extensions, accept data.
+        if any(path.endswith(ext) for ext in (".ts", ".mp4", ".m4v", ".aac")):
+            return len(first) > 0
+
+        return False
+    except requests.RequestException:
+        return False
 
 def main():
     cat_html, cat_final = fetch(CATEGORY_PAGE)
@@ -153,8 +186,7 @@ def main():
 
     for label in KNOWN_LABELS:
         category_urls.setdefault(
-            label,
-            urljoin(BASE_URL, "search/label/" + label.replace(" ", "%20"))
+            label, urljoin(BASE_URL, "search/label/" + label.replace(" ", "%20"))
         )
 
     post_urls = set()
@@ -172,7 +204,6 @@ def main():
             continue
 
         soup = BeautifulSoup(html, "html.parser")
-
         for link in extract_page_links(html, final_url):
             if looks_like_post(link):
                 post_urls.add(link)
@@ -183,19 +214,16 @@ def main():
             if is_internal(href) and (
                 "mais postagens" in text or
                 "older posts" in text or
-                "próxima" in text or
-                text == "next"
-            ):
-                if href not in visited:
-                    queue.append(href)
+                "próxima" in text or text == "next"
+            ) and href not in visited:
+                queue.append(href)
 
         time.sleep(SLEEP)
 
-    print(f"[INFO] {len(category_urls)} categorias.")
-    print(f"[INFO] {len(post_urls)} páginas de canais.")
+    print(f"[INFO] Categorias: {len(category_urls)}")
+    print(f"[INFO] Páginas de canais: {len(post_urls)}")
 
     channels = {}
-
     for i, post_url in enumerate(sorted(post_urls), 1):
         html, final_url = fetch(post_url)
         if not html:
@@ -203,39 +231,45 @@ def main():
 
         soup = BeautifulSoup(html, "html.parser")
         name = get_channel_name(soup)
-        labels = get_labels(soup)
-        streams = extract_streams(html, final_url)
+        labels = get_labels(soup) or ["Sem categoria"]
 
-        if not streams:
-            continue
-
-        if not labels:
-            labels = ["Sem categoria"]
-
-        for stream in streams:
-            key = stream.strip()
-            if not key:
+        for stream in extract_streams(html, final_url):
+            stream = stream.strip()
+            if not stream:
                 continue
-
-            if key not in channels:
-                channels[key] = {
-                    "name": name,
-                    "labels": list(labels),
-                }
+            if stream not in channels:
+                channels[stream] = {"name": name, "labels": labels[:]}
             else:
-                channels[key]["labels"] = list(
-                    dict.fromkeys(channels[key]["labels"] + labels)
+                channels[stream]["labels"] = list(
+                    dict.fromkeys(channels[stream]["labels"] + labels)
                 )
-                # Se o primeiro título for genérico, aproveita o título atual.
-                if channels[key]["name"] == "Canal sem nome" and name != "Canal sem nome":
-                    channels[key]["name"] = name
+                if channels[stream]["name"] == "Canal sem nome" and name != "Canal sem nome":
+                    channels[stream]["name"] = name
 
         if i % 25 == 0:
-            print(f"[INFO] Processados {i}/{len(post_urls)} posts")
+            print(f"[INFO] Posts processados: {i}/{len(post_urls)}")
         time.sleep(SLEEP)
 
-    groups = defaultdict(list)
+    print(f"[INFO] Streams encontrados antes do teste: {len(channels)}")
+
+    # Testa cada stream uma vez. Canais inativos são descartados.
+    active = {}
+    tested = 0
     for stream, item in channels.items():
+        if tested >= MAX_STREAM_TESTS:
+            print("[WARN] Limite de testes atingido; streams restantes não serão incluídos.")
+            break
+
+        tested += 1
+        ok = probe_stream(stream)
+        print(f"[TESTE] {'ATIVO' if ok else 'INATIVO'} - {item['name']} - {stream}")
+        if ok:
+            active[stream] = item
+
+    print(f"[RESULTADO] Ativos: {len(active)} / Testados: {tested}")
+
+    groups = defaultdict(list)
+    for stream, item in active.items():
         for label in item["labels"]:
             groups[label].append((item["name"], stream))
 
@@ -243,21 +277,23 @@ def main():
     ordered_labels += sorted(x for x in groups if x not in ordered_labels)
 
     lines = ["#EXTM3U"]
-
     for label in ordered_labels:
+        # Evita duplicar o mesmo stream dentro da mesma categoria.
+        seen_group = set()
         for name, stream in sorted(groups[label], key=lambda x: x[0].lower()):
+            if stream in seen_group:
+                continue
+            seen_group.add(stream)
             safe_name = name.replace('"', "'")
             lines.append(
-                f'#EXTINF:-1 group-title="{label}" '
-                f'tvg-name="{safe_name}" '
+                f'#EXTINF:-1 group-title="{label}" tvg-name="{safe_name}" '
                 f'tvg-country="BR" tvg-language="Portuguese",{safe_name}'
             )
             lines.append(stream)
 
     OUTPUT.write_text("\n".join(lines) + "\n", encoding="utf-8")
-    print(f"[OK] {len(channels)} streams únicos.")
-    print(f"[OK] {len(ordered_labels)} categorias.")
-    print(f"[OK] {OUTPUT}")
+    print(f"[OK] Lista gerada: {OUTPUT}")
+    print(f"[OK] Categorias com canais ativos: {len(ordered_labels)}")
 
 if __name__ == "__main__":
     main()
