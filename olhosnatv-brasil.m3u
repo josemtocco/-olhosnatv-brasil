@@ -1,2 +1,23 @@
 #EXTM3U
-# A lista será preenchida pelo GitHub Actions ao executar gerar_m3u.py.
+#EXTINF:-1 group-title="Brasil" tvg-country="BR" tvg-language="Portuguese",Assistir TV Online Grátis - Olhos na TV
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
+#EXTINF:-1 group-title="Brasil" tvg-country="BR" tvg-language="Portuguese",Assistir TV Online Grátis - Olhos na TV
+https://cdn.live.br1.jmvstream.com/w/LVW-15997/LVW15997_5k8SX2p5BD/playlist.m3u8
+#EXTINF:-1 group-title="Brasil" tvg-country="BR" tvg-language="Portuguese",Assistir TV Online Grátis - Olhos na TV
+https://video05.logicahost.com.br/tvmais01/tvmais01/playlist.m3u8
+#EXTINF:-1 group-title="Brasil" tvg-country="BR" tvg-language="Portuguese",Assistir TV Online Grátis - Olhos na TV
+https://cdn.live.br1.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+#EXTINF:-1 group-title="Brasil" tvg-country="BR" tvg-language="Portuguese",Assistir TV Online Grátis - Olhos na TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
+#EXTINF:-1 group-title="Brasil" tvg-country="BR" tvg-language="Portuguese",Assistir TV Online Grátis - Olhos na TV
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+#EXTINF:-1 group-title="Brasil" tvg-country="BR" tvg-language="Portuguese",Assistir TV Online Grátis - Olhos na TV
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 group-title="Brasil" tvg-country="BR" tvg-language="Portuguese",Assistir TV Online Grátis - Olhos na TV
+https://beyond.spalla.io/player/?live=019a797e-eeb8-7eda-9518-132403ccb160
+#EXTINF:-1 group-title="Brasil" tvg-country="BR" tvg-language="Portuguese",Assistir TV Online Grátis - Olhos na TV
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+#EXTINF:-1 group-title="Brasil" tvg-country="BR" tvg-language="Portuguese",Assistir TV Online Grátis - Olhos na TV
+https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
+#EXTINF:-1 group-title="Brasil" tvg-country="BR" tvg-language="Portuguese",Assistir TV Online Grátis - Olhos na TV
+https://awtv.nuvemplay.live/hls/stream.m3u8
