@@ -1,9 +1,9 @@
-name: Atualizar M3U - Olhos na TV Brasil
+name: Atualizar M3U - Olhos na TV
 
 on:
   workflow_dispatch:
   schedule:
-    # 00:20, 06:20, 12:20 e 18:20 no horário de Brasília (UTC-3).
+    # 4 atualizações por dia, aproximadamente no horário de Brasília.
     - cron: "20 3,9,15,21 * * *"
 
 permissions:
@@ -25,22 +25,23 @@ jobs:
       - name: Instalar dependências
         run: python -m pip install -r requirements.txt
 
-      - name: Gerar lista
+      - name: Gerar lista M3U por categorias
         run: python gerar_m3u.py
 
-      - name: Verificar arquivo
+      - name: Validar lista
         run: |
-          test -s olhosnatv-brasil.m3u
-          grep -q '^#EXTM3U' olhosnatv-brasil.m3u
+          test -s olhosnatv.m3u
+          grep -q '^#EXTM3U' olhosnatv.m3u
+          grep -q 'group-title=' olhosnatv.m3u
 
       - name: Commit e push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add olhosnatv-brasil.m3u
+          git add olhosnatv.m3u
           if git diff --cached --quiet; then
             echo "Nenhuma alteração na lista."
           else
-            git commit -m "Atualiza lista M3U Olhos na TV"
+            git commit -m "Atualiza M3U por categorias"
             git push
           fi
