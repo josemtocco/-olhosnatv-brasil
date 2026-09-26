@@ -1,9 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="Esportes" tvg-name="RACER BRASIL" tvg-country="BR" tvg-language="Portuguese",RACER BRASIL
-https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Músicas" tvg-name="ALMA GOSPEL TV" tvg-country="BR" tvg-language="Portuguese",ALMA GOSPEL TV
-https://almagospel.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Evangélicos" tvg-name="ALMA GOSPEL TV" tvg-country="BR" tvg-language="Portuguese",ALMA GOSPEL TV
-https://almagospel.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Automóveis" tvg-name="RACER BRASIL" tvg-country="BR" tvg-language="Portuguese",RACER BRASIL
-https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV ONE (TV Meio Norte PA)" tvg-country="BR" tvg-language="Portuguese",TV ONE (TV Meio Norte PA)
+https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" tvg-name="TV CHANNEL NETWORK" tvg-country="BR" tvg-language="Portuguese",TV CHANNEL NETWORK
+https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" tvg-name="TV ONE (TV Meio Norte PA)" tvg-country="BR" tvg-language="Portuguese",TV ONE (TV Meio Norte PA)
+https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
+#EXTINF:-1 group-title="Seriados" tvg-name="TV CHANNEL NETWORK" tvg-country="BR" tvg-language="Portuguese",TV CHANNEL NETWORK
+https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
+#EXTINF:-1 group-title="Seriados" tvg-name="TV ONE (TV Meio Norte PA)" tvg-country="BR" tvg-language="Portuguese",TV ONE (TV Meio Norte PA)
+https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
+#EXTINF:-1 group-title="Clássicos" tvg-name="NOW 70S" tvg-country="BR" tvg-language="Portuguese",NOW 70S
+https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 group-title="Clássicos" tvg-name="TV CHANNEL NETWORK" tvg-country="BR" tvg-language="Portuguese",TV CHANNEL NETWORK
+https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="TV ONE (TV Meio Norte PA)" tvg-country="BR" tvg-language="Portuguese",TV ONE (TV Meio Norte PA)
+https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
+#EXTINF:-1 group-title="Músicas" tvg-name="NOW 70S" tvg-country="BR" tvg-language="Portuguese",NOW 70S
+https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 group-title="Músicas" tvg-name="TRACE BRAZUCA" tvg-country="BR" tvg-language="Portuguese",TRACE BRAZUCA
+https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="Videoclipes Musical" tvg-name="NOW 70S" tvg-country="BR" tvg-language="Portuguese",NOW 70S
+https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 group-title="Videoclipes Musical" tvg-name="TRACE BRAZUCA" tvg-country="BR" tvg-language="Portuguese",TRACE BRAZUCA
+https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
