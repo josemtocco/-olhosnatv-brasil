@@ -1,31 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="TVs Abertas" tvg-name="RIT TV" tvg-country="BR" tvg-language="Portuguese",RIT TV
-https://stream.ecast.com.br/rit-tv/index.m3u8
-#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV NOVO TEMPO" tvg-country="BR" tvg-language="Portuguese",TV NOVO TEMPO
-https://streamtv.novotempo.com/CDN-TV-PT/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-name="TV GOSPEL EXODUS DE SALVADOR" tvg-country="BR" tvg-language="Portuguese",TV GOSPEL EXODUS DE SALVADOR
-https://stmv7.samcast.com.br/tvexodus/tvexodus/playlist.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-name="TV SONATA" tvg-country="BR" tvg-language="Portuguese",TV SONATA
-https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
-#EXTINF:-1 group-title="Seriados" tvg-name="TV SONATA" tvg-country="BR" tvg-language="Portuguese",TV SONATA
-https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="RETRÔ CARTOON" tvg-country="BR" tvg-language="Portuguese",RETRÔ CARTOON
-https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="TV SONATA" tvg-country="BR" tvg-language="Portuguese",TV SONATA
-https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
-#EXTINF:-1 group-title="Desenhos" tvg-name="RETRÔ CARTOON" tvg-country="BR" tvg-language="Portuguese",RETRÔ CARTOON
-https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="TV SONATA" tvg-country="BR" tvg-language="Portuguese",TV SONATA
-https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
-#EXTINF:-1 group-title="Músicas" tvg-name="GOSPEL MUSIC TELEVISION" tvg-country="BR" tvg-language="Portuguese",GOSPEL MUSIC TELEVISION
-https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
-#EXTINF:-1 group-title="Evangélicos" tvg-name="GOSPEL MUSIC TELEVISION" tvg-country="BR" tvg-language="Portuguese",GOSPEL MUSIC TELEVISION
-https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
-#EXTINF:-1 group-title="Evangélicos" tvg-name="RIT TV" tvg-country="BR" tvg-language="Portuguese",RIT TV
-https://stream.ecast.com.br/rit-tv/index.m3u8
-#EXTINF:-1 group-title="Evangélicos" tvg-name="TV GOSPEL EXODUS DE SALVADOR" tvg-country="BR" tvg-language="Portuguese",TV GOSPEL EXODUS DE SALVADOR
-https://stmv7.samcast.com.br/tvexodus/tvexodus/playlist.m3u8
-#EXTINF:-1 group-title="Evangélicos" tvg-name="TV NOVO TEMPO" tvg-country="BR" tvg-language="Portuguese",TV NOVO TEMPO
-https://streamtv.novotempo.com/CDN-TV-PT/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1 group-title="Filmes Gospel" tvg-name="TV GOSPEL EXODUS DE SALVADOR" tvg-country="BR" tvg-language="Portuguese",TV GOSPEL EXODUS DE SALVADOR
-https://stmv7.samcast.com.br/tvexodus/tvexodus/playlist.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="CANAL 38 (TV Cultura PR)" tvg-country="BR" tvg-language="Portuguese",CANAL 38 (TV Cultura PR)
+https://cdn.live.br1.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="CULTNE TV" tvg-country="BR" tvg-language="Portuguese",CULTNE TV
+https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HLS/manifest.m3u8
+#EXTINF:-1 group-title="Músicas" tvg-name="CULTNE TV" tvg-country="BR" tvg-language="Portuguese",CULTNE TV
+https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HLS/manifest.m3u8
+#EXTINF:-1 group-title="Educativos" tvg-name="CANAL 38 (TV Cultura PR)" tvg-country="BR" tvg-language="Portuguese",CANAL 38 (TV Cultura PR)
+https://cdn.live.br1.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+#EXTINF:-1 group-title="Educativos" tvg-name="CULTNE TV" tvg-country="BR" tvg-language="Portuguese",CULTNE TV
+https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HLS/manifest.m3u8
+#EXTINF:-1 group-title="Educativos" tvg-name="TV EDUCADORA DE LIMEIRA" tvg-country="BR" tvg-language="Portuguese",TV EDUCADORA DE LIMEIRA
+https://v-us-01.wisestream.io/memfs/025f2a20-493f-4108-ba17-999ef477e4b2_output_0.m3u8?session=7WwSwYeuT5TfLGS66YG6V5
