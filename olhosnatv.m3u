@@ -1,13 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="TVs Abertas" tvg-name="CANAL 38 (TV Cultura PR)" tvg-country="BR" tvg-language="Portuguese",CANAL 38 (TV Cultura PR)
-https://cdn.live.br1.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="CULTNE TV" tvg-country="BR" tvg-language="Portuguese",CULTNE TV
-https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HLS/manifest.m3u8
-#EXTINF:-1 group-title="Músicas" tvg-name="CULTNE TV" tvg-country="BR" tvg-language="Portuguese",CULTNE TV
-https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HLS/manifest.m3u8
-#EXTINF:-1 group-title="Educativos" tvg-name="CANAL 38 (TV Cultura PR)" tvg-country="BR" tvg-language="Portuguese",CANAL 38 (TV Cultura PR)
-https://cdn.live.br1.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
-#EXTINF:-1 group-title="Educativos" tvg-name="CULTNE TV" tvg-country="BR" tvg-language="Portuguese",CULTNE TV
-https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HLS/manifest.m3u8
-#EXTINF:-1 group-title="Educativos" tvg-name="TV EDUCADORA DE LIMEIRA" tvg-country="BR" tvg-language="Portuguese",TV EDUCADORA DE LIMEIRA
-https://v-us-01.wisestream.io/memfs/025f2a20-493f-4108-ba17-999ef477e4b2_output_0.m3u8?session=7WwSwYeuT5TfLGS66YG6V5
+#EXTINF:-1 group-title="Governamentais" tvg-name="TV ALBA" tvg-country="BR" tvg-language="Portuguese",TV ALBA
+https://live.mediastreaming.com.br/alba/cdn.stream/playlist.m3u8
