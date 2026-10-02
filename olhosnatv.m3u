@@ -1,11 +1,165 @@
 #EXTM3U
-#EXTINF:-1 group-title="Variedades" tvg-name="RÁDIO E TV CLÁSSICOS FM" tvg-country="BR" tvg-language="Portuguese",RÁDIO E TV CLÁSSICOS FM
-https://v01.taaqui.org/joel/joel/playlist.m3u8
-#EXTINF:-1 group-title="Músicas" tvg-name="GOSPEL MUSIC TELEVISION" tvg-country="BR" tvg-language="Portuguese",GOSPEL MUSIC TELEVISION
-https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
-#EXTINF:-1 group-title="Músicas" tvg-name="RÁDIO E TV CLÁSSICOS FM" tvg-country="BR" tvg-language="Portuguese",RÁDIO E TV CLÁSSICOS FM
-https://v01.taaqui.org/joel/joel/playlist.m3u8
-#EXTINF:-1 group-title="Evangélicos" tvg-name="GOSPEL MUSIC TELEVISION" tvg-country="BR" tvg-language="Portuguese",GOSPEL MUSIC TELEVISION
-https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="CANAL 38 (TV Cultura PR)" tvg-country="BR" tvg-language="Portuguese",CANAL 38 (TV Cultura PR)
+https://cdn.live.br1.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="CANAL FUTURA (Canal FDR)" tvg-country="BR" tvg-language="Portuguese",CANAL FUTURA (Canal FDR)
+https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="REDE MINAS" tvg-country="BR" tvg-language="Portuguese",REDE MINAS
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="TOP CULTURA (TV Cultura MG)" tvg-country="BR" tvg-language="Portuguese",TOP CULTURA (TV Cultura MG)
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV BRASIL CENTRAL (TV Cultura GO)" tvg-country="BR" tvg-language="Portuguese",TV BRASIL CENTRAL (TV Cultura GO)
+https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV CULTURA" tvg-country="BR" tvg-language="Portuguese",TV CULTURA
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV CÂMARA 1" tvg-country="BR" tvg-language="Portuguese",TV CÂMARA 1
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV FUTURO (TV Cultura RN)" tvg-country="BR" tvg-language="Portuguese",TV FUTURO (TV Cultura RN)
+https://tv03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV MAIS NEWS (TV Cultura MT)" tvg-country="BR" tvg-language="Portuguese",TV MAIS NEWS (TV Cultura MT)
+https://video05.logicahost.com.br/tvmais01/tvmais01/playlist.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV NOVA NORDESTE" tvg-country="BR" tvg-language="Portuguese",TV NOVA NORDESTE
+https://stream.ecast.com.br/nova-tv/index.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV PARANÁ TURISMO" tvg-country="BR" tvg-language="Portuguese",TV PARANÁ TURISMO
+https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV PORTO BAHIA (TV Cultura BA)" tvg-country="BR" tvg-language="Portuguese",TV PORTO BAHIA (TV Cultura BA)
+https://cdn.live.br1.jmvstream.com/w/LVW-15997/LVW15997_5k8SX2p5BD/playlist.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV SERRA DO MAR" tvg-country="BR" tvg-language="Portuguese",TV SERRA DO MAR
+https://live.cdn.upx.com/7550/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="TVC HD (TV Cultura MS)" tvg-country="BR" tvg-language="Portuguese",TVC HD (TV Cultura MS)
+https://rdcbn.brasilstream.com.br/hls/rdcbn/index.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="TVC PANORAMA (TV Cultura SC)" tvg-country="BR" tvg-language="Portuguese",TVC PANORAMA (TV Cultura SC)
+https://tv02.zas.media:1936/panorama/panorama/playlist.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="UNI TV (TV Cultura SC)" tvg-country="BR" tvg-language="Portuguese",UNI TV (TV Cultura SC)
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8
+#EXTINF:-1 group-title="Filmes" tvg-name="GOSPEL MOVIES TELEVISION" tvg-country="BR" tvg-language="Portuguese",GOSPEL MOVIES TELEVISION
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" tvg-name="KURIAKOS CINE" tvg-country="BR" tvg-language="Portuguese",KURIAKOS CINE
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" tvg-name="PETLOVERS TV" tvg-country="BR" tvg-language="Portuguese",PETLOVERS TV
+https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" tvg-name="TOP MIX TV FILMES" tvg-country="BR" tvg-language="Portuguese",TOP MIX TV FILMES
+https://video01.logicahost.com.br/topmixtvfilmes/topmixtvfilmes/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" tvg-name="TV GOSPEL EXODUS DE SALVADOR" tvg-country="BR" tvg-language="Portuguese",TV GOSPEL EXODUS DE SALVADOR
+https://stmv7.samcast.com.br/tvexodus/tvexodus/playlist.m3u8
+#EXTINF:-1 group-title="Seriados" tvg-name="PETLOVERS TV" tvg-country="BR" tvg-language="Portuguese",PETLOVERS TV
+https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="CULTNE TV" tvg-country="BR" tvg-language="Portuguese",CULTNE TV
+https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HLS/manifest.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="PETLOVERS TV" tvg-country="BR" tvg-language="Portuguese",PETLOVERS TV
+https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="REDE MINAS" tvg-country="BR" tvg-language="Portuguese",REDE MINAS
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="TASTEMADE BRASIL" tvg-country="BR" tvg-language="Portuguese",TASTEMADE BRASIL
+https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadeportuguesept16intl-plexus/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="TV CULTURA FAST" tvg-country="BR" tvg-language="Portuguese",TV CULTURA FAST
+https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="TV PARANÁ TURISMO" tvg-country="BR" tvg-language="Portuguese",TV PARANÁ TURISMO
+https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-name="RACER BRASIL" tvg-country="BR" tvg-language="Portuguese",RACER BRASIL
+https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Músicas" tvg-name="CULTNE TV" tvg-country="BR" tvg-language="Portuguese",CULTNE TV
+https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HLS/manifest.m3u8
+#EXTINF:-1 group-title="Evangélicos" tvg-name="REDE DE RÁDIO E TV WEB JESUS CRISTO PARA AS NAÇÕES" tvg-country="BR" tvg-language="Portuguese",REDE DE RÁDIO E TV WEB JESUS CRISTO PARA AS NAÇÕES
+https://stmv4.liveplushd.com.br/robertomaciel/robertomaciel/playlist.m3u8
+#EXTINF:-1 group-title="Evangélicos" tvg-name="TV GOSPEL EXODUS DE SALVADOR" tvg-country="BR" tvg-language="Portuguese",TV GOSPEL EXODUS DE SALVADOR
+https://stmv7.samcast.com.br/tvexodus/tvexodus/playlist.m3u8
+#EXTINF:-1 group-title="Documentários" tvg-name="WILDEARTH" tvg-country="BR" tvg-language="Portuguese",WILDEARTH
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
+#EXTINF:-1 group-title="Filmes Gospel" tvg-name="GOSPEL MOVIES TELEVISION" tvg-country="BR" tvg-language="Portuguese",GOSPEL MOVIES TELEVISION
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 group-title="Filmes Gospel" tvg-name="KURIAKOS CINE" tvg-country="BR" tvg-language="Portuguese",KURIAKOS CINE
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+#EXTINF:-1 group-title="Filmes Gospel" tvg-name="REDE DE RÁDIO E TV WEB JESUS CRISTO PARA AS NAÇÕES" tvg-country="BR" tvg-language="Portuguese",REDE DE RÁDIO E TV WEB JESUS CRISTO PARA AS NAÇÕES
+https://stmv4.liveplushd.com.br/robertomaciel/robertomaciel/playlist.m3u8
+#EXTINF:-1 group-title="Filmes Gospel" tvg-name="TOP MIX TV FILMES" tvg-country="BR" tvg-language="Portuguese",TOP MIX TV FILMES
+https://video01.logicahost.com.br/topmixtvfilmes/topmixtvfilmes/playlist.m3u8
+#EXTINF:-1 group-title="Filmes Gospel" tvg-name="TV GOSPEL EXODUS DE SALVADOR" tvg-country="BR" tvg-language="Portuguese",TV GOSPEL EXODUS DE SALVADOR
+https://stmv7.samcast.com.br/tvexodus/tvexodus/playlist.m3u8
+#EXTINF:-1 group-title="Notícias do Mundo" tvg-name="ABC NEWS" tvg-country="BR" tvg-language="Portuguese",ABC NEWS
+https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/playlist.m3u8
+#EXTINF:-1 group-title="Notícias do Mundo" tvg-name="AL JAZEERA" tvg-country="BR" tvg-language="Portuguese",AL JAZEERA
+https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="Notícias do Mundo" tvg-name="BLOOMBERG" tvg-country="BR" tvg-language="Portuguese",BLOOMBERG
+https://cdn4.skygo.mn/live/disk1/Bloomberg/HLSv3-FTA/Bloomberg.m3u8
+#EXTINF:-1 group-title="Notícias do Mundo" tvg-name="DW (Espanhol)" tvg-country="BR" tvg-language="Portuguese",DW (Espanhol)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
+#EXTINF:-1 group-title="Notícias do Mundo" tvg-name="DW (Inglês)" tvg-country="BR" tvg-language="Portuguese",DW (Inglês)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/streamPlaylist.m3u8
 #EXTINF:-1 group-title="Pegadinhas" tvg-name="FORA TÉDIO TV" tvg-country="BR" tvg-language="Portuguese",FORA TÉDIO TV
 https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
+#EXTINF:-1 group-title="Pegadinhas" tvg-name="JUST FOR LAUGHS GAGS" tvg-country="BR" tvg-language="Portuguese",JUST FOR LAUGHS GAGS
+https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Educativos" tvg-name="CANAL 38 (TV Cultura PR)" tvg-country="BR" tvg-language="Portuguese",CANAL 38 (TV Cultura PR)
+https://cdn.live.br1.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+#EXTINF:-1 group-title="Educativos" tvg-name="CANAL EDUCAÇÃO" tvg-country="BR" tvg-language="Portuguese",CANAL EDUCAÇÃO
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 group-title="Educativos" tvg-name="CANAL FUTURA (Canal FDR)" tvg-country="BR" tvg-language="Portuguese",CANAL FUTURA (Canal FDR)
+https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
+#EXTINF:-1 group-title="Educativos" tvg-name="CULTNE TV" tvg-country="BR" tvg-language="Portuguese",CULTNE TV
+https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HLS/manifest.m3u8
+#EXTINF:-1 group-title="Educativos" tvg-name="REDE MINAS" tvg-country="BR" tvg-language="Portuguese",REDE MINAS
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+#EXTINF:-1 group-title="Educativos" tvg-name="TOP CULTURA (TV Cultura MG)" tvg-country="BR" tvg-language="Portuguese",TOP CULTURA (TV Cultura MG)
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 group-title="Educativos" tvg-name="TV BELEZA DENTAL" tvg-country="BR" tvg-language="Portuguese",TV BELEZA DENTAL
+https://video05.logicahost.com.br/tvbelezadental/tvbelezadental/playlist.m3u8
+#EXTINF:-1 group-title="Educativos" tvg-name="TV BRASIL CENTRAL (TV Cultura GO)" tvg-country="BR" tvg-language="Portuguese",TV BRASIL CENTRAL (TV Cultura GO)
+https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
+#EXTINF:-1 group-title="Educativos" tvg-name="TV CULTURA" tvg-country="BR" tvg-language="Portuguese",TV CULTURA
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
+#EXTINF:-1 group-title="Educativos" tvg-name="TV CULTURA FAST" tvg-country="BR" tvg-language="Portuguese",TV CULTURA FAST
+https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
+#EXTINF:-1 group-title="Educativos" tvg-name="TV EDUCADORA DE LIMEIRA" tvg-country="BR" tvg-language="Portuguese",TV EDUCADORA DE LIMEIRA
+https://v-us-01.wisestream.io/memfs/025f2a20-493f-4108-ba17-999ef477e4b2_output_0.m3u8?session=7WwSwYeuT5TfLGS66YG6V5
+#EXTINF:-1 group-title="Educativos" tvg-name="TV FUTURO (TV Cultura RN)" tvg-country="BR" tvg-language="Portuguese",TV FUTURO (TV Cultura RN)
+https://tv03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+#EXTINF:-1 group-title="Educativos" tvg-name="TV MAIS NEWS (TV Cultura MT)" tvg-country="BR" tvg-language="Portuguese",TV MAIS NEWS (TV Cultura MT)
+https://video05.logicahost.com.br/tvmais01/tvmais01/playlist.m3u8
+#EXTINF:-1 group-title="Educativos" tvg-name="TV MEDICINA" tvg-country="BR" tvg-language="Portuguese",TV MEDICINA
+https://video03.logicahost.com.br/tvmedicina/tvmedicina/playlist.m3u8
+#EXTINF:-1 group-title="Educativos" tvg-name="TV NOVA NORDESTE" tvg-country="BR" tvg-language="Portuguese",TV NOVA NORDESTE
+https://stream.ecast.com.br/nova-tv/index.m3u8
+#EXTINF:-1 group-title="Educativos" tvg-name="TV PARANÁ TURISMO" tvg-country="BR" tvg-language="Portuguese",TV PARANÁ TURISMO
+https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
+#EXTINF:-1 group-title="Educativos" tvg-name="TV PORTO BAHIA (TV Cultura BA)" tvg-country="BR" tvg-language="Portuguese",TV PORTO BAHIA (TV Cultura BA)
+https://cdn.live.br1.jmvstream.com/w/LVW-15997/LVW15997_5k8SX2p5BD/playlist.m3u8
+#EXTINF:-1 group-title="Educativos" tvg-name="TV SERRA DO MAR" tvg-country="BR" tvg-language="Portuguese",TV SERRA DO MAR
+https://live.cdn.upx.com/7550/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Educativos" tvg-name="TVC HD (TV Cultura MS)" tvg-country="BR" tvg-language="Portuguese",TVC HD (TV Cultura MS)
+https://rdcbn.brasilstream.com.br/hls/rdcbn/index.m3u8
+#EXTINF:-1 group-title="Educativos" tvg-name="TVC PANORAMA (TV Cultura SC)" tvg-country="BR" tvg-language="Portuguese",TVC PANORAMA (TV Cultura SC)
+https://tv02.zas.media:1936/panorama/panorama/playlist.m3u8
+#EXTINF:-1 group-title="Educativos" tvg-name="UNI TV (TV Cultura SC)" tvg-country="BR" tvg-language="Portuguese",UNI TV (TV Cultura SC)
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8
+#EXTINF:-1 group-title="Animais" tvg-name="PETLOVERS TV" tvg-country="BR" tvg-language="Portuguese",PETLOVERS TV
+https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
+#EXTINF:-1 group-title="Animais" tvg-name="TV MAIS PET" tvg-country="BR" tvg-language="Portuguese",TV MAIS PET
+https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
+#EXTINF:-1 group-title="Animais" tvg-name="WILDEARTH" tvg-country="BR" tvg-language="Portuguese",WILDEARTH
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
+#EXTINF:-1 group-title="Governamentais" tvg-name="CANAL GOV" tvg-country="BR" tvg-language="Portuguese",CANAL GOV
+https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 group-title="Governamentais" tvg-name="TV ALBA" tvg-country="BR" tvg-language="Portuguese",TV ALBA
+https://live.mediastreaming.com.br/alba/cdn.stream/playlist.m3u8
+#EXTINF:-1 group-title="Governamentais" tvg-name="TV CÂMARA 1" tvg-country="BR" tvg-language="Portuguese",TV CÂMARA 1
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 group-title="Culinárias" tvg-name="CANAL BEM MELHOR" tvg-country="BR" tvg-language="Portuguese",CANAL BEM MELHOR
+https://video01.logicahost.com.br/bemmelhor/bemmelhor/playlist.m3u8
+#EXTINF:-1 group-title="Culinárias" tvg-name="MASTERCHEF BRASIL" tvg-country="BR" tvg-language="Portuguese",MASTERCHEF BRASIL
+https://amg00627-banijay-amg00627c9-plex-us-1999.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-plexus/playlist.m3u8
+#EXTINF:-1 group-title="Culinárias" tvg-name="RECEITAS FAST" tvg-country="BR" tvg-language="Portuguese",RECEITAS FAST
+https://amg00716-globo-amg00716c3-tcl-br-9498.playouts.now.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 group-title="Culinárias" tvg-name="TASTEMADE BRASIL" tvg-country="BR" tvg-language="Portuguese",TASTEMADE BRASIL
+https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadeportuguesept16intl-plexus/playlist.m3u8
+#EXTINF:-1 group-title="Automóveis" tvg-name="DRIVE CHANNEL TV" tvg-country="BR" tvg-language="Portuguese",DRIVE CHANNEL TV
+https://stmv1.voxplayer.com.br/drivechannel/drivechannel/playlist.m3u8
+#EXTINF:-1 group-title="Automóveis" tvg-name="GARAGE TV" tvg-country="BR" tvg-language="Portuguese",GARAGE TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 group-title="Automóveis" tvg-name="MOTORVISION TV" tvg-country="BR" tvg-language="Portuguese",MOTORVISION TV
+https://mvg-mv.otteravision.com/mvg/mv/mv_1080p.m3u8
+#EXTINF:-1 group-title="Automóveis" tvg-name="RACER BRASIL" tvg-country="BR" tvg-language="Portuguese",RACER BRASIL
+https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Automóveis" tvg-name="TV CAR MULTIMARCAS" tvg-country="BR" tvg-language="Portuguese",TV CAR MULTIMARCAS
+https://video11.logicahost.com.br/tvcar/tvcar/playlist.m3u8
+#EXTINF:-1 group-title="Televendas" tvg-name="TV DO CARRO" tvg-country="BR" tvg-language="Portuguese",TV DO CARRO
+https://tv03.zas.media:1936/tvdocarro/tvdocarro/playlist.m3u8
