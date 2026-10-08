@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="Filmes" tvg-name="TV CHANNEL NETWORK" tvg-country="BR" tvg-language="Portuguese",TV CHANNEL NETWORK
-https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
-#EXTINF:-1 group-title="Seriados" tvg-name="TV CHANNEL NETWORK" tvg-country="BR" tvg-language="Portuguese",TV CHANNEL NETWORK
-https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="TV CHANNEL NETWORK" tvg-country="BR" tvg-language="Portuguese",TV CHANNEL NETWORK
-https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
-#EXTINF:-1 group-title="Católicos" tvg-name="EBAMIX TV" tvg-country="BR" tvg-language="Portuguese",EBAMIX TV
-https://video.ebamix.com.br/hls/ebamix/index.m3u8
+#EXTINF:-1 group-title="Filmes" tvg-name="CLOUDING TV" tvg-country="BR" tvg-language="Portuguese",CLOUDING TV
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
+#EXTINF:-1 group-title="Seriados" tvg-name="CLOUDING TV" tvg-country="BR" tvg-language="Portuguese",CLOUDING TV
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
+#EXTINF:-1 group-title="Clássicos" tvg-name="CLOUDING TV" tvg-country="BR" tvg-language="Portuguese",CLOUDING TV
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
