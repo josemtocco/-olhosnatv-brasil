@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV ONE (TV Meio Norte PA)" tvg-country="BR" tvg-language="Portuguese",TV ONE (TV Meio Norte PA)
-https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-name="TV ONE (TV Meio Norte PA)" tvg-country="BR" tvg-language="Portuguese",TV ONE (TV Meio Norte PA)
-https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
-#EXTINF:-1 group-title="Seriados" tvg-name="TV ONE (TV Meio Norte PA)" tvg-country="BR" tvg-language="Portuguese",TV ONE (TV Meio Norte PA)
-https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="TV ONE (TV Meio Norte PA)" tvg-country="BR" tvg-language="Portuguese",TV ONE (TV Meio Norte PA)
-https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV DA GENTE" tvg-country="BR" tvg-language="Portuguese",TV DA GENTE
+https://srv6.zcast.com.br/tvdagente/tvdagente/playlist.m3u8
+#EXTINF:-1 group-title="Desenhos" tvg-name="MR BEAN 2" tvg-country="BR" tvg-language="Portuguese",MR BEAN 2
+https://amg00627-banijay-amg00627c35-plex-us-4257.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-plexus/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="TV DA GENTE" tvg-country="BR" tvg-language="Portuguese",TV DA GENTE
+https://srv6.zcast.com.br/tvdagente/tvdagente/playlist.m3u8
+#EXTINF:-1 group-title="Evangélicos" tvg-name="TV DA GENTE" tvg-country="BR" tvg-language="Portuguese",TV DA GENTE
+https://srv6.zcast.com.br/tvdagente/tvdagente/playlist.m3u8
