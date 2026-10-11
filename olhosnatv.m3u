@@ -1,17 +1,95 @@
 #EXTM3U
-#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV DA GENTE" tvg-country="BR" tvg-language="Portuguese",TV DA GENTE
-https://srv6.zcast.com.br/tvdagente/tvdagente/playlist.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-name="GOSPEL MOVIES TELEVISION" tvg-country="BR" tvg-language="Portuguese",GOSPEL MOVIES TELEVISION
-https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-#EXTINF:-1 group-title="Desenhos" tvg-name="MI TV" tvg-country="BR" tvg-language="Portuguese",MI TV
-https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="TV DA GENTE" tvg-country="BR" tvg-language="Portuguese",TV DA GENTE
-https://srv6.zcast.com.br/tvdagente/tvdagente/playlist.m3u8
-#EXTINF:-1 group-title="Evangélicos" tvg-name="MI TV" tvg-country="BR" tvg-language="Portuguese",MI TV
-https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
-#EXTINF:-1 group-title="Evangélicos" tvg-name="TV DA GENTE" tvg-country="BR" tvg-language="Portuguese",TV DA GENTE
-https://srv6.zcast.com.br/tvdagente/tvdagente/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-name="MI TV" tvg-country="BR" tvg-language="Portuguese",MI TV
-https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
-#EXTINF:-1 group-title="Filmes Gospel" tvg-name="GOSPEL MOVIES TELEVISION" tvg-country="BR" tvg-language="Portuguese",GOSPEL MOVIES TELEVISION
-https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="CANAL 38 (TV Cultura PR)" tvg-country="BR" tvg-language="Portuguese",CANAL 38 (TV Cultura PR)
+https://cdn.live.br1.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="ISTV" tvg-country="BR" tvg-language="Portuguese",ISTV
+https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="RECORD NEWS" tvg-country="BR" tvg-language="Portuguese",RECORD NEWS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="REDE VIDA" tvg-country="BR" tvg-language="Portuguese",REDE VIDA
+https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="TOP TV" tvg-country="BR" tvg-language="Portuguese",TOP TV
+https://isaocorp.cloudecast.com/toptv/index.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV APARECIDA" tvg-country="BR" tvg-language="Portuguese",TV APARECIDA
+https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV IMACULADA" tvg-country="BR" tvg-language="Portuguese",TV IMACULADA
+https://video08.logicahost.com.br/redeimaculada/redeimaculada/playlist.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV PARANÁ TURISMO" tvg-country="BR" tvg-language="Portuguese",TV PARANÁ TURISMO
+https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV SERRA DO MAR" tvg-country="BR" tvg-language="Portuguese",TV SERRA DO MAR
+https://live.cdn.upx.com/7550/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" tvg-name="ISTV" tvg-country="BR" tvg-language="Portuguese",ISTV
+https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" tvg-name="KURIAKOS CINE" tvg-country="BR" tvg-language="Portuguese",KURIAKOS CINE
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" tvg-name="REVIVA TV" tvg-country="BR" tvg-language="Portuguese",REVIVA TV
+https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
+#EXTINF:-1 group-title="Seriados" tvg-name="CLASSIQUE TV SÉRIES" tvg-country="BR" tvg-language="Portuguese",CLASSIQUE TV SÉRIES
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 group-title="Seriados" tvg-name="ISTV" tvg-country="BR" tvg-language="Portuguese",ISTV
+https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
+#EXTINF:-1 group-title="Seriados" tvg-name="REVIVA TV" tvg-country="BR" tvg-language="Portuguese",REVIVA TV
+https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
+#EXTINF:-1 group-title="Seriados" tvg-name="TV PAPAGAIO" tvg-country="BR" tvg-language="Portuguese",TV PAPAGAIO
+https://stmv.jnbhost.com.br/tvpapagaio/tvpapagaio/playlist.m3u8
+#EXTINF:-1 group-title="Clássicos" tvg-name="CLASSIQUE TV SÉRIES" tvg-country="BR" tvg-language="Portuguese",CLASSIQUE TV SÉRIES
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 group-title="Clássicos" tvg-name="ISTV" tvg-country="BR" tvg-language="Portuguese",ISTV
+https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
+#EXTINF:-1 group-title="Clássicos" tvg-name="REVIVA TV" tvg-country="BR" tvg-language="Portuguese",REVIVA TV
+https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
+#EXTINF:-1 group-title="Desenhos" tvg-name="TOP TV ON BRASIL" tvg-country="BR" tvg-language="Portuguese",TOP TV ON BRASIL
+https://video05.logicahost.com.br/toptvonbrasil/toptvonbrasil/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="ISTV" tvg-country="BR" tvg-language="Portuguese",ISTV
+https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="REVIVA TV" tvg-country="BR" tvg-language="Portuguese",REVIVA TV
+https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="TOP TV ON BRASIL" tvg-country="BR" tvg-language="Portuguese",TOP TV ON BRASIL
+https://video05.logicahost.com.br/toptvonbrasil/toptvonbrasil/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="TV PAPAGAIO" tvg-country="BR" tvg-language="Portuguese",TV PAPAGAIO
+https://stmv.jnbhost.com.br/tvpapagaio/tvpapagaio/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="TV PARANÁ TURISMO" tvg-country="BR" tvg-language="Portuguese",TV PARANÁ TURISMO
+https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="TVÍDEONEWS" tvg-country="BR" tvg-language="Portuguese",TVÍDEONEWS
+https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
+#EXTINF:-1 group-title="Notícias" tvg-name="RECORD NEWS" tvg-country="BR" tvg-language="Portuguese",RECORD NEWS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
+#EXTINF:-1 group-title="Novelas" tvg-name="NOVELAS TURCAS" tvg-country="BR" tvg-language="Portuguese",NOVELAS TURCAS
+https://amg00658-amg00658c102-canelatv-international-7231.playouts.now.amagi.tv/1080p/index.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-name="COMBATV" tvg-country="BR" tvg-language="Portuguese",COMBATV
+https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-name="ESPORTES BRASÍLIA" tvg-country="BR" tvg-language="Portuguese",ESPORTES BRASÍLIA
+https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-name="RS SPORTS 2" tvg-country="BR" tvg-language="Portuguese",RS SPORTS 2
+https://video07.logicahost.com.br/rssports02/rssports02/playlist.m3u8
+#EXTINF:-1 group-title="Músicas" tvg-name="TOP TV" tvg-country="BR" tvg-language="Portuguese",TOP TV
+https://isaocorp.cloudecast.com/toptv/index.m3u8
+#EXTINF:-1 group-title="Músicas" tvg-name="TV PAPAGAIO" tvg-country="BR" tvg-language="Portuguese",TV PAPAGAIO
+https://stmv.jnbhost.com.br/tvpapagaio/tvpapagaio/playlist.m3u8
+#EXTINF:-1 group-title="Músicas" tvg-name="TV PORTAL ATIVO" tvg-country="BR" tvg-language="Portuguese",TV PORTAL ATIVO
+https://flussonic-tv2.jupiter.com.br/portalativo/index.m3u8
+#EXTINF:-1 group-title="Evangélicos" tvg-name="AUGE TV GOSPEL" tvg-country="BR" tvg-language="Portuguese",AUGE TV GOSPEL
+https://video01.logicahost.com.br/augegospel/augegospel/playlist.m3u8
+#EXTINF:-1 group-title="Evangélicos" tvg-name="TV FELIZ" tvg-country="BR" tvg-language="Portuguese",TV FELIZ
+https://video01.logicahost.com.br/tvfeliz/tvfeliz/playlist.m3u8
+#EXTINF:-1 group-title="Documentários" tvg-name="TVÍDEONEWS" tvg-country="BR" tvg-language="Portuguese",TVÍDEONEWS
+https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
+#EXTINF:-1 group-title="Católicos" tvg-name="REDE VIDA" tvg-country="BR" tvg-language="Portuguese",REDE VIDA
+https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
+#EXTINF:-1 group-title="Católicos" tvg-name="REDE VIDA CAXIAS" tvg-country="BR" tvg-language="Portuguese",REDE VIDA CAXIAS
+https://srv3.zcast.com.br/vidacaxias/vidacaxias/playlist.m3u8
+#EXTINF:-1 group-title="Católicos" tvg-name="TV APARECIDA" tvg-country="BR" tvg-language="Portuguese",TV APARECIDA
+https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:-1 group-title="Católicos" tvg-name="TV IMACULADA" tvg-country="BR" tvg-language="Portuguese",TV IMACULADA
+https://video08.logicahost.com.br/redeimaculada/redeimaculada/playlist.m3u8
+#EXTINF:-1 group-title="Videoclipes Musical" tvg-name="TV PORTAL ATIVO" tvg-country="BR" tvg-language="Portuguese",TV PORTAL ATIVO
+https://flussonic-tv2.jupiter.com.br/portalativo/index.m3u8
+#EXTINF:-1 group-title="Filmes Gospel" tvg-name="KURIAKOS CINE" tvg-country="BR" tvg-language="Portuguese",KURIAKOS CINE
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+#EXTINF:-1 group-title="Pegadinhas" tvg-name="JUST FOR LAUGHS GAGS" tvg-country="BR" tvg-language="Portuguese",JUST FOR LAUGHS GAGS
+https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Educativos" tvg-name="CANAL 38 (TV Cultura PR)" tvg-country="BR" tvg-language="Portuguese",CANAL 38 (TV Cultura PR)
+https://cdn.live.br1.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+#EXTINF:-1 group-title="Educativos" tvg-name="TV PARANÁ TURISMO" tvg-country="BR" tvg-language="Portuguese",TV PARANÁ TURISMO
+https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
+#EXTINF:-1 group-title="Educativos" tvg-name="TV SERRA DO MAR" tvg-country="BR" tvg-language="Portuguese",TV SERRA DO MAR
+https://live.cdn.upx.com/7550/myStream.sdp/playlist.m3u8
