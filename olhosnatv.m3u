@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="Filmes" tvg-name="TV SONATA" tvg-country="BR" tvg-language="Portuguese",TV SONATA
-https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
-#EXTINF:-1 group-title="Seriados" tvg-name="TV SONATA" tvg-country="BR" tvg-language="Portuguese",TV SONATA
-https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="TV SONATA" tvg-country="BR" tvg-language="Portuguese",TV SONATA
-https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="TV SONATA" tvg-country="BR" tvg-language="Portuguese",TV SONATA
-https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
+#EXTINF:-1 group-title="Músicas" tvg-name="NOW 90S & 00S" tvg-country="BR" tvg-language="Portuguese",NOW 90S & 00S
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
+#EXTINF:-1 group-title="Videoclipes Musical" tvg-name="NOW 90S & 00S" tvg-country="BR" tvg-language="Portuguese",NOW 90S & 00S
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
+#EXTINF:-1 group-title="Automóveis" tvg-name="DRIVE CHANNEL TV" tvg-country="BR" tvg-language="Portuguese",DRIVE CHANNEL TV
+https://stmv1.voxplayer.com.br/drivechannel/drivechannel/playlist.m3u8
+#EXTINF:-1 group-title="Automóveis" tvg-name="GARAGE TV" tvg-country="BR" tvg-language="Portuguese",GARAGE TV
+https://stream1.sersat.com/hls/garagetv.m3u8
