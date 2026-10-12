@@ -1,43 +1,29 @@
 #EXTM3U
-#EXTINF:-1 group-title="TVs Abertas" tvg-name="CANAL 38 (TV Cultura PR)" tvg-country="BR" tvg-language="Portuguese",CANAL 38 (TV Cultura PR)
-https://cdn.live.br1.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
-#EXTINF:-1 group-title="TVs Abertas" tvg-name="CANAL FUTURA (Canal FDR)" tvg-country="BR" tvg-language="Portuguese",CANAL FUTURA (Canal FDR)
-https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="TOP CULTURA (TV Cultura MG)" tvg-country="BR" tvg-language="Portuguese",TOP CULTURA (TV Cultura MG)
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 group-title="TVs Abertas" tvg-name="TV CULTURA" tvg-country="BR" tvg-language="Portuguese",TV CULTURA
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
-#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV UNIÃO NATAL" tvg-country="BR" tvg-language="Portuguese",TV UNIÃO NATAL
-https://pushapp.uniaoplay.com.br/hls/stream.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="NOW 80'S" tvg-country="BR" tvg-language="Portuguese",NOW 80'S
-https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="CULTNE TV" tvg-country="BR" tvg-language="Portuguese",CULTNE TV
-https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HLS/manifest.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="TV UNIÃO NATAL" tvg-country="BR" tvg-language="Portuguese",TV UNIÃO NATAL
-https://pushapp.uniaoplay.com.br/hls/stream.m3u8
-#EXTINF:-1 group-title="Músicas" tvg-name="CULTNE TV" tvg-country="BR" tvg-language="Portuguese",CULTNE TV
-https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HLS/manifest.m3u8
-#EXTINF:-1 group-title="Músicas" tvg-name="MAIS TV BRASIL" tvg-country="BR" tvg-language="Portuguese",MAIS TV BRASIL
-https://v2.cloudecast.com/maistv/index.m3u8
-#EXTINF:-1 group-title="Músicas" tvg-name="NOW 80'S" tvg-country="BR" tvg-language="Portuguese",NOW 80'S
-https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 group-title="Músicas" tvg-name="NOW 90S & 00S" tvg-country="BR" tvg-language="Portuguese",NOW 90S & 00S
-https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
-#EXTINF:-1 group-title="Músicas" tvg-name="TV UNIÃO NATAL" tvg-country="BR" tvg-language="Portuguese",TV UNIÃO NATAL
-https://pushapp.uniaoplay.com.br/hls/stream.m3u8
-#EXTINF:-1 group-title="Videoclipes Musical" tvg-name="MAIS TV BRASIL" tvg-country="BR" tvg-language="Portuguese",MAIS TV BRASIL
-https://v2.cloudecast.com/maistv/index.m3u8
-#EXTINF:-1 group-title="Videoclipes Musical" tvg-name="NOW 80'S" tvg-country="BR" tvg-language="Portuguese",NOW 80'S
-https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 group-title="Videoclipes Musical" tvg-name="NOW 90S & 00S" tvg-country="BR" tvg-language="Portuguese",NOW 90S & 00S
-https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
-#EXTINF:-1 group-title="Educativos" tvg-name="CANAL 38 (TV Cultura PR)" tvg-country="BR" tvg-language="Portuguese",CANAL 38 (TV Cultura PR)
-https://cdn.live.br1.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
-#EXTINF:-1 group-title="Educativos" tvg-name="CANAL FUTURA (Canal FDR)" tvg-country="BR" tvg-language="Portuguese",CANAL FUTURA (Canal FDR)
-https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
-#EXTINF:-1 group-title="Educativos" tvg-name="CULTNE TV" tvg-country="BR" tvg-language="Portuguese",CULTNE TV
-https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HLS/manifest.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV SERRA DO MAR" tvg-country="BR" tvg-language="Portuguese",TV SERRA DO MAR
+https://live.cdn.upx.com/7550/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="TASTEMADE BRASIL" tvg-country="BR" tvg-language="Portuguese",TASTEMADE BRASIL
+https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadeportuguesept16intl-plexus/playlist.m3u8
+#EXTINF:-1 group-title="Educativos" tvg-name="CANAL EDUCAÇÃO" tvg-country="BR" tvg-language="Portuguese",CANAL EDUCAÇÃO
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 group-title="Educativos" tvg-name="TOP CULTURA (TV Cultura MG)" tvg-country="BR" tvg-language="Portuguese",TOP CULTURA (TV Cultura MG)
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 group-title="Educativos" tvg-name="TV CULTURA" tvg-country="BR" tvg-language="Portuguese",TV CULTURA
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
-#EXTINF:-1 group-title="Automóveis" tvg-name="MOTORVISION TV" tvg-country="BR" tvg-language="Portuguese",MOTORVISION TV
-https://mvg-mv.otteravision.com/mvg/mv/mv_1080p.m3u8
-#EXTINF:-1 group-title="Automóveis" tvg-name="TV CAR MULTIMARCAS" tvg-country="BR" tvg-language="Portuguese",TV CAR MULTIMARCAS
-https://video11.logicahost.com.br/tvcar/tvcar/playlist.m3u8
+#EXTINF:-1 group-title="Educativos" tvg-name="TV MEDICINA" tvg-country="BR" tvg-language="Portuguese",TV MEDICINA
+https://video03.logicahost.com.br/tvmedicina/tvmedicina/playlist.m3u8
+#EXTINF:-1 group-title="Educativos" tvg-name="TV SERRA DO MAR" tvg-country="BR" tvg-language="Portuguese",TV SERRA DO MAR
+https://live.cdn.upx.com/7550/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Culinárias" tvg-name="CANAL BEM MELHOR" tvg-country="BR" tvg-language="Portuguese",CANAL BEM MELHOR
+https://video01.logicahost.com.br/bemmelhor/bemmelhor/playlist.m3u8
+#EXTINF:-1 group-title="Culinárias" tvg-name="MASTERCHEF BRASIL" tvg-country="BR" tvg-language="Portuguese",MASTERCHEF BRASIL
+https://amg00627-banijay-amg00627c9-plex-us-1999.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-plexus/playlist.m3u8
+#EXTINF:-1 group-title="Culinárias" tvg-name="RECEITAS FAST" tvg-country="BR" tvg-language="Portuguese",RECEITAS FAST
+https://amg00716-globo-amg00716c3-tcl-br-9498.playouts.now.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 group-title="Culinárias" tvg-name="TASTEMADE BRASIL" tvg-country="BR" tvg-language="Portuguese",TASTEMADE BRASIL
+https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadeportuguesept16intl-plexus/playlist.m3u8
+#EXTINF:-1 group-title="Culinárias" tvg-name="TRAVEL AND FOOD" tvg-country="BR" tvg-language="Portuguese",TRAVEL AND FOOD
+https://pop2.uniquetv.com.br/hls/travelfood.m3u8
