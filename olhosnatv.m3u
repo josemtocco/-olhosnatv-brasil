@@ -1,9 +1,43 @@
 #EXTM3U
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="CANAL 38 (TV Cultura PR)" tvg-country="BR" tvg-language="Portuguese",CANAL 38 (TV Cultura PR)
+https://cdn.live.br1.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="CANAL FUTURA (Canal FDR)" tvg-country="BR" tvg-language="Portuguese",CANAL FUTURA (Canal FDR)
+https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV CULTURA" tvg-country="BR" tvg-language="Portuguese",TV CULTURA
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV UNIÃO NATAL" tvg-country="BR" tvg-language="Portuguese",TV UNIÃO NATAL
+https://pushapp.uniaoplay.com.br/hls/stream.m3u8
+#EXTINF:-1 group-title="Clássicos" tvg-name="NOW 80'S" tvg-country="BR" tvg-language="Portuguese",NOW 80'S
+https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="CULTNE TV" tvg-country="BR" tvg-language="Portuguese",CULTNE TV
+https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HLS/manifest.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="TV UNIÃO NATAL" tvg-country="BR" tvg-language="Portuguese",TV UNIÃO NATAL
+https://pushapp.uniaoplay.com.br/hls/stream.m3u8
+#EXTINF:-1 group-title="Músicas" tvg-name="CULTNE TV" tvg-country="BR" tvg-language="Portuguese",CULTNE TV
+https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HLS/manifest.m3u8
+#EXTINF:-1 group-title="Músicas" tvg-name="MAIS TV BRASIL" tvg-country="BR" tvg-language="Portuguese",MAIS TV BRASIL
+https://v2.cloudecast.com/maistv/index.m3u8
+#EXTINF:-1 group-title="Músicas" tvg-name="NOW 80'S" tvg-country="BR" tvg-language="Portuguese",NOW 80'S
+https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 group-title="Músicas" tvg-name="NOW 90S & 00S" tvg-country="BR" tvg-language="Portuguese",NOW 90S & 00S
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
+#EXTINF:-1 group-title="Músicas" tvg-name="TV UNIÃO NATAL" tvg-country="BR" tvg-language="Portuguese",TV UNIÃO NATAL
+https://pushapp.uniaoplay.com.br/hls/stream.m3u8
+#EXTINF:-1 group-title="Videoclipes Musical" tvg-name="MAIS TV BRASIL" tvg-country="BR" tvg-language="Portuguese",MAIS TV BRASIL
+https://v2.cloudecast.com/maistv/index.m3u8
+#EXTINF:-1 group-title="Videoclipes Musical" tvg-name="NOW 80'S" tvg-country="BR" tvg-language="Portuguese",NOW 80'S
+https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 group-title="Videoclipes Musical" tvg-name="NOW 90S & 00S" tvg-country="BR" tvg-language="Portuguese",NOW 90S & 00S
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
-#EXTINF:-1 group-title="Automóveis" tvg-name="DRIVE CHANNEL TV" tvg-country="BR" tvg-language="Portuguese",DRIVE CHANNEL TV
-https://stmv1.voxplayer.com.br/drivechannel/drivechannel/playlist.m3u8
-#EXTINF:-1 group-title="Automóveis" tvg-name="GARAGE TV" tvg-country="BR" tvg-language="Portuguese",GARAGE TV
-https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 group-title="Educativos" tvg-name="CANAL 38 (TV Cultura PR)" tvg-country="BR" tvg-language="Portuguese",CANAL 38 (TV Cultura PR)
+https://cdn.live.br1.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+#EXTINF:-1 group-title="Educativos" tvg-name="CANAL FUTURA (Canal FDR)" tvg-country="BR" tvg-language="Portuguese",CANAL FUTURA (Canal FDR)
+https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
+#EXTINF:-1 group-title="Educativos" tvg-name="CULTNE TV" tvg-country="BR" tvg-language="Portuguese",CULTNE TV
+https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HLS/manifest.m3u8
+#EXTINF:-1 group-title="Educativos" tvg-name="TV CULTURA" tvg-country="BR" tvg-language="Portuguese",TV CULTURA
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
+#EXTINF:-1 group-title="Automóveis" tvg-name="MOTORVISION TV" tvg-country="BR" tvg-language="Portuguese",MOTORVISION TV
+https://mvg-mv.otteravision.com/mvg/mv/mv_1080p.m3u8
+#EXTINF:-1 group-title="Automóveis" tvg-name="TV CAR MULTIMARCAS" tvg-country="BR" tvg-language="Portuguese",TV CAR MULTIMARCAS
+https://video11.logicahost.com.br/tvcar/tvcar/playlist.m3u8
