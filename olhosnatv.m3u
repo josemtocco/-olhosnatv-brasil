@@ -1,29 +1,63 @@
 #EXTM3U
-#EXTINF:-1 group-title="TVs Abertas" tvg-name="TOP CULTURA (TV Cultura MG)" tvg-country="BR" tvg-language="Portuguese",TOP CULTURA (TV Cultura MG)
-https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV CULTURA" tvg-country="BR" tvg-language="Portuguese",TV CULTURA
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
-#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV SERRA DO MAR" tvg-country="BR" tvg-language="Portuguese",TV SERRA DO MAR
-https://live.cdn.upx.com/7550/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="TASTEMADE BRASIL" tvg-country="BR" tvg-language="Portuguese",TASTEMADE BRASIL
-https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadeportuguesept16intl-plexus/playlist.m3u8
-#EXTINF:-1 group-title="Educativos" tvg-name="CANAL EDUCAÇÃO" tvg-country="BR" tvg-language="Portuguese",CANAL EDUCAÇÃO
-https://canaleducacao-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 group-title="Educativos" tvg-name="TOP CULTURA (TV Cultura MG)" tvg-country="BR" tvg-language="Portuguese",TOP CULTURA (TV Cultura MG)
-https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:-1 group-title="Educativos" tvg-name="TV CULTURA" tvg-country="BR" tvg-language="Portuguese",TV CULTURA
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
-#EXTINF:-1 group-title="Educativos" tvg-name="TV MEDICINA" tvg-country="BR" tvg-language="Portuguese",TV MEDICINA
-https://video03.logicahost.com.br/tvmedicina/tvmedicina/playlist.m3u8
-#EXTINF:-1 group-title="Educativos" tvg-name="TV SERRA DO MAR" tvg-country="BR" tvg-language="Portuguese",TV SERRA DO MAR
-https://live.cdn.upx.com/7550/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Culinárias" tvg-name="CANAL BEM MELHOR" tvg-country="BR" tvg-language="Portuguese",CANAL BEM MELHOR
-https://video01.logicahost.com.br/bemmelhor/bemmelhor/playlist.m3u8
-#EXTINF:-1 group-title="Culinárias" tvg-name="MASTERCHEF BRASIL" tvg-country="BR" tvg-language="Portuguese",MASTERCHEF BRASIL
-https://amg00627-banijay-amg00627c9-plex-us-1999.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-plexus/playlist.m3u8
-#EXTINF:-1 group-title="Culinárias" tvg-name="RECEITAS FAST" tvg-country="BR" tvg-language="Portuguese",RECEITAS FAST
-https://amg00716-globo-amg00716c3-tcl-br-9498.playouts.now.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 group-title="Culinárias" tvg-name="TASTEMADE BRASIL" tvg-country="BR" tvg-language="Portuguese",TASTEMADE BRASIL
-https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadeportuguesept16intl-plexus/playlist.m3u8
-#EXTINF:-1 group-title="Culinárias" tvg-name="TRAVEL AND FOOD" tvg-country="BR" tvg-language="Portuguese",TRAVEL AND FOOD
-https://pop2.uniquetv.com.br/hls/travelfood.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="RBTV" tvg-country="BR" tvg-language="Portuguese",RBTV
+https://redebrasileira.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Filmes" tvg-name="CARAVANA PLAY" tvg-country="BR" tvg-language="Portuguese",CARAVANA PLAY
+https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" tvg-name="NBX TV" tvg-country="BR" tvg-language="Portuguese",NBX TV
+https://stmv7.voxtvhd.com.br/nbxtv/nbxtv/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" tvg-name="RBTV" tvg-country="BR" tvg-language="Portuguese",RBTV
+https://redebrasileira.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Filmes" tvg-name="SWT" tvg-country="BR" tvg-language="Portuguese",SWT
+https://srv2.zcast.com.br/edgard4915/edgard4915/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" tvg-name="TV MIURA" tvg-country="BR" tvg-language="Portuguese",TV MIURA
+https://live20.bozztv.com/giatvplayout7/giatv-209397/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" tvg-name="TV NBN" tvg-country="BR" tvg-language="Portuguese",TV NBN
+https://cdn.live.br1.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" tvg-name="WEB TV AMPARO" tvg-country="BR" tvg-language="Portuguese",WEB TV AMPARO
+https://stmv6.voxtvhd.com.br/lupercio5913/lupercio5913/playlist.m3u8
+#EXTINF:-1 group-title="Seriados" tvg-name="CARAVANA PLAY" tvg-country="BR" tvg-language="Portuguese",CARAVANA PLAY
+https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
+#EXTINF:-1 group-title="Seriados" tvg-name="NBX TV" tvg-country="BR" tvg-language="Portuguese",NBX TV
+https://stmv7.voxtvhd.com.br/nbxtv/nbxtv/playlist.m3u8
+#EXTINF:-1 group-title="Seriados" tvg-name="RBTV" tvg-country="BR" tvg-language="Portuguese",RBTV
+https://redebrasileira.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Seriados" tvg-name="SWT" tvg-country="BR" tvg-language="Portuguese",SWT
+https://srv2.zcast.com.br/edgard4915/edgard4915/playlist.m3u8
+#EXTINF:-1 group-title="Seriados" tvg-name="WEB TV AMPARO" tvg-country="BR" tvg-language="Portuguese",WEB TV AMPARO
+https://stmv6.voxtvhd.com.br/lupercio5913/lupercio5913/playlist.m3u8
+#EXTINF:-1 group-title="Clássicos" tvg-name="CARAVANA PLAY" tvg-country="BR" tvg-language="Portuguese",CARAVANA PLAY
+https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
+#EXTINF:-1 group-title="Clássicos" tvg-name="RBTV" tvg-country="BR" tvg-language="Portuguese",RBTV
+https://redebrasileira.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Clássicos" tvg-name="RETRÔ CARTOON" tvg-country="BR" tvg-language="Portuguese",RETRÔ CARTOON
+https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
+#EXTINF:-1 group-title="Clássicos" tvg-name="SWT" tvg-country="BR" tvg-language="Portuguese",SWT
+https://srv2.zcast.com.br/edgard4915/edgard4915/playlist.m3u8
+#EXTINF:-1 group-title="Clássicos" tvg-name="TV MIURA" tvg-country="BR" tvg-language="Portuguese",TV MIURA
+https://live20.bozztv.com/giatvplayout7/giatv-209397/playlist.m3u8
+#EXTINF:-1 group-title="Clássicos" tvg-name="WEB TV AMPARO" tvg-country="BR" tvg-language="Portuguese",WEB TV AMPARO
+https://stmv6.voxtvhd.com.br/lupercio5913/lupercio5913/playlist.m3u8
+#EXTINF:-1 group-title="Desenhos" tvg-name="KANUCA TV BRASIL" tvg-country="BR" tvg-language="Portuguese",KANUCA TV BRASIL
+https://video08.logicahost.com.br/kanucatv/kanucatv/playlist.m3u8
+#EXTINF:-1 group-title="Desenhos" tvg-name="RETRÔ CARTOON" tvg-country="BR" tvg-language="Portuguese",RETRÔ CARTOON
+https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="NBX TV" tvg-country="BR" tvg-language="Portuguese",NBX TV
+https://stmv7.voxtvhd.com.br/nbxtv/nbxtv/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="SWT" tvg-country="BR" tvg-language="Portuguese",SWT
+https://srv2.zcast.com.br/edgard4915/edgard4915/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="TV MIURA" tvg-country="BR" tvg-language="Portuguese",TV MIURA
+https://live20.bozztv.com/giatvplayout7/giatv-209397/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="TV NBN" tvg-country="BR" tvg-language="Portuguese",TV NBN
+https://cdn.live.br1.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="TVÍDEONEWS" tvg-country="BR" tvg-language="Portuguese",TVÍDEONEWS
+https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="WEB TV AMPARO" tvg-country="BR" tvg-language="Portuguese",WEB TV AMPARO
+https://stmv6.voxtvhd.com.br/lupercio5913/lupercio5913/playlist.m3u8
+#EXTINF:-1 group-title="Documentários" tvg-name="RT DOCUMENTARY" tvg-country="BR" tvg-language="Portuguese",RT DOCUMENTARY
+https://rt-rtd.rttv.com/live/rtdoc/playlist_1600Kb.m3u8
+#EXTINF:-1 group-title="Documentários" tvg-name="TV NND" tvg-country="BR" tvg-language="Portuguese",TV NND
+https://stmv2.voxtvhd.com.br/tvnnd/tvnnd/playlist.m3u8
+#EXTINF:-1 group-title="Documentários" tvg-name="TVÍDEONEWS" tvg-country="BR" tvg-language="Portuguese",TVÍDEONEWS
+https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-name="KANUCA TV BRASIL" tvg-country="BR" tvg-language="Portuguese",KANUCA TV BRASIL
+https://video08.logicahost.com.br/kanucatv/kanucatv/playlist.m3u8
