@@ -1,11 +1,33 @@
 #EXTM3U
-#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV DA GENTE" tvg-country="BR" tvg-language="Portuguese",TV DA GENTE
-https://srv6.zcast.com.br/tvdagente/tvdagente/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="TV DA GENTE" tvg-country="BR" tvg-language="Portuguese",TV DA GENTE
-https://srv6.zcast.com.br/tvdagente/tvdagente/playlist.m3u8
-#EXTINF:-1 group-title="Músicas" tvg-name="TV NOVA CIDADE" tvg-country="BR" tvg-language="Portuguese",TV NOVA CIDADE
-https://stmv2.voxtvhd.com.br/franciscocarlos3733/franciscocarlos3733/playlist.m3u8
-#EXTINF:-1 group-title="Evangélicos" tvg-name="TV DA GENTE" tvg-country="BR" tvg-language="Portuguese",TV DA GENTE
-https://srv6.zcast.com.br/tvdagente/tvdagente/playlist.m3u8
-#EXTINF:-1 group-title="Evangélicos" tvg-name="TV NOVA CIDADE" tvg-country="BR" tvg-language="Portuguese",TV NOVA CIDADE
-https://stmv2.voxtvhd.com.br/franciscocarlos3733/franciscocarlos3733/playlist.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="ISTV" tvg-country="BR" tvg-language="Portuguese",ISTV
+https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" tvg-name="ISTV" tvg-country="BR" tvg-language="Portuguese",ISTV
+https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" tvg-name="TV ARACATI" tvg-country="BR" tvg-language="Portuguese",TV ARACATI
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" tvg-name="TV SONATA" tvg-country="BR" tvg-language="Portuguese",TV SONATA
+https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
+#EXTINF:-1 group-title="Seriados" tvg-name="AWTV" tvg-country="BR" tvg-language="Portuguese",AWTV
+https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Seriados" tvg-name="ISTV" tvg-country="BR" tvg-language="Portuguese",ISTV
+https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
+#EXTINF:-1 group-title="Seriados" tvg-name="TV ARACATI" tvg-country="BR" tvg-language="Portuguese",TV ARACATI
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+#EXTINF:-1 group-title="Seriados" tvg-name="TV SONATA" tvg-country="BR" tvg-language="Portuguese",TV SONATA
+https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
+#EXTINF:-1 group-title="Clássicos" tvg-name="AWTV" tvg-country="BR" tvg-language="Portuguese",AWTV
+https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Clássicos" tvg-name="ISTV" tvg-country="BR" tvg-language="Portuguese",ISTV
+https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
+#EXTINF:-1 group-title="Clássicos" tvg-name="TV ARACATI" tvg-country="BR" tvg-language="Portuguese",TV ARACATI
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+#EXTINF:-1 group-title="Clássicos" tvg-name="TV SONATA" tvg-country="BR" tvg-language="Portuguese",TV SONATA
+https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="AWTV" tvg-country="BR" tvg-language="Portuguese",AWTV
+https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="ISTV" tvg-country="BR" tvg-language="Portuguese",ISTV
+https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="TV ARACATI" tvg-country="BR" tvg-language="Portuguese",TV ARACATI
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="TV SONATA" tvg-country="BR" tvg-language="Portuguese",TV SONATA
+https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
