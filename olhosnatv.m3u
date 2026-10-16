@@ -1,9 +1,57 @@
 #EXTM3U
-#EXTINF:-1 group-title="Filmes" tvg-name="XTREME TV" tvg-country="BR" tvg-language="Portuguese",XTREME TV
-https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
-#EXTINF:-1 group-title="Seriados" tvg-name="XTREME TV" tvg-country="BR" tvg-language="Portuguese",XTREME TV
-https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="XTREME TV" tvg-country="BR" tvg-language="Portuguese",XTREME TV
-https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
-#EXTINF:-1 group-title="Automóveis" tvg-name="GARAGE TV" tvg-country="BR" tvg-language="Portuguese",GARAGE TV
-https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="REDE NGT" tvg-country="BR" tvg-language="Portuguese",REDE NGT
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="REDE SÉCULO 21" tvg-country="BR" tvg-language="Portuguese",REDE SÉCULO 21
+https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/playlist.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="REDE VIDA" tvg-country="BR" tvg-language="Portuguese",REDE VIDA
+https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV ARAPUAN (Band PB)" tvg-country="BR" tvg-language="Portuguese",TV ARAPUAN (Band PB)
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV IMACULADA" tvg-country="BR" tvg-language="Portuguese",TV IMACULADA
+https://video08.logicahost.com.br/redeimaculada/redeimaculada/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" tvg-name="CINE CATÁSTROFE" tvg-country="BR" tvg-language="Portuguese",CINE CATÁSTROFE
+https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" tvg-name="REDE NGT" tvg-country="BR" tvg-language="Portuguese",REDE NGT
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:-1 group-title="Filmes" tvg-name="TV ARACATI" tvg-country="BR" tvg-language="Portuguese",TV ARACATI
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" tvg-name="TV LATINASAT" tvg-country="BR" tvg-language="Portuguese",TV LATINASAT
+https://www.latinasat.com.br/hls/live/stream/index.m3u8
+#EXTINF:-1 group-title="Seriados" tvg-name="REDE NGT" tvg-country="BR" tvg-language="Portuguese",REDE NGT
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:-1 group-title="Seriados" tvg-name="TV ARACATI" tvg-country="BR" tvg-language="Portuguese",TV ARACATI
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+#EXTINF:-1 group-title="Seriados" tvg-name="TV LATINASAT" tvg-country="BR" tvg-language="Portuguese",TV LATINASAT
+https://www.latinasat.com.br/hls/live/stream/index.m3u8
+#EXTINF:-1 group-title="Clássicos" tvg-name="CINE CATÁSTROFE" tvg-country="BR" tvg-language="Portuguese",CINE CATÁSTROFE
+https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/playlist.m3u8
+#EXTINF:-1 group-title="Clássicos" tvg-name="REDE NGT" tvg-country="BR" tvg-language="Portuguese",REDE NGT
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:-1 group-title="Clássicos" tvg-name="TV ARACATI" tvg-country="BR" tvg-language="Portuguese",TV ARACATI
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+#EXTINF:-1 group-title="Clássicos" tvg-name="TV LATINASAT" tvg-country="BR" tvg-language="Portuguese",TV LATINASAT
+https://www.latinasat.com.br/hls/live/stream/index.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="REDE NGT" tvg-country="BR" tvg-language="Portuguese",REDE NGT
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="TV ARACATI" tvg-country="BR" tvg-language="Portuguese",TV ARACATI
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="TV ARAPUAN (Band PB)" tvg-country="BR" tvg-language="Portuguese",TV ARAPUAN (Band PB)
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="TV LATINASAT" tvg-country="BR" tvg-language="Portuguese",TV LATINASAT
+https://www.latinasat.com.br/hls/live/stream/index.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="TVÍDEONEWS" tvg-country="BR" tvg-language="Portuguese",TVÍDEONEWS
+https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
+#EXTINF:-1 group-title="Documentários" tvg-name="TVÍDEONEWS" tvg-country="BR" tvg-language="Portuguese",TVÍDEONEWS
+https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
+#EXTINF:-1 group-title="Católicos" tvg-name="REDE SÉCULO 21" tvg-country="BR" tvg-language="Portuguese",REDE SÉCULO 21
+https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/playlist.m3u8
+#EXTINF:-1 group-title="Católicos" tvg-name="REDE VIDA" tvg-country="BR" tvg-language="Portuguese",REDE VIDA
+https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
+#EXTINF:-1 group-title="Católicos" tvg-name="TV FÉ E LUZ" tvg-country="BR" tvg-language="Portuguese",TV FÉ E LUZ
+https://5cf4a2c2512a2.streamlock.net/sjbcampinas/sjbcampinas/playlist.m3u8
+#EXTINF:-1 group-title="Católicos" tvg-name="TV IMACULADA" tvg-country="BR" tvg-language="Portuguese",TV IMACULADA
+https://video08.logicahost.com.br/redeimaculada/redeimaculada/playlist.m3u8
+#EXTINF:-1 group-title="Culinárias" tvg-name="MASTERCHEF BRASIL" tvg-country="BR" tvg-language="Portuguese",MASTERCHEF BRASIL
+https://amg00627-banijay-amg00627c9-plex-us-1999.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-plexus/playlist.m3u8
+#EXTINF:-1 group-title="Culinárias" tvg-name="TRAVEL AND FOOD" tvg-country="BR" tvg-language="Portuguese",TRAVEL AND FOOD
+https://pop2.uniquetv.com.br/hls/travelfood.m3u8
