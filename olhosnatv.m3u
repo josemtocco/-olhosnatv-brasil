@@ -1,249 +1,47 @@
 #EXTM3U
-#EXTINF:-1 group-title="TVs Abertas" tvg-name="ISTV" tvg-country="BR" tvg-language="Portuguese",ISTV
-https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
-#EXTINF:-1 group-title="TVs Abertas" tvg-name="REDE NGT" tvg-country="BR" tvg-language="Portuguese",REDE NGT
-https://isaocorp.cloudecast.com/ngt/index.m3u8
-#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV CÂMARA 1" tvg-country="BR" tvg-language="Portuguese",TV CÂMARA 1
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV MARAJOARA (Rede Brasil PA)" tvg-country="BR" tvg-language="Portuguese",TV MARAJOARA (Rede Brasil PA)
-https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-name="1980 CHANNEL" tvg-country="BR" tvg-language="Portuguese",1980 CHANNEL
-https://stmv2.painelvideocast.com.br/channel80/channel80/playlist.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-name="CANAL BSTV" tvg-country="BR" tvg-language="Portuguese",CANAL BSTV
-https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-name="CLASSIQUE TV" tvg-country="BR" tvg-language="Portuguese",CLASSIQUE TV
-https://stmv1.srvif.com/classique/classique/playlist.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-name="CLOUDING TV" tvg-country="BR" tvg-language="Portuguese",CLOUDING TV
-https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-name="ISTV" tvg-country="BR" tvg-language="Portuguese",ISTV
-https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-name="MULTICANAIS" tvg-country="BR" tvg-language="Portuguese",MULTICANAIS
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-name="REDE NGT" tvg-country="BR" tvg-language="Portuguese",REDE NGT
-https://isaocorp.cloudecast.com/ngt/index.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-name="REDE TV MAIS" tvg-country="BR" tvg-language="Portuguese",REDE TV MAIS
-https://video09.logicahost.com.br/redetvmais/redetvmais/playlist.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-name="REDE UTV BRASIL" tvg-country="BR" tvg-language="Portuguese",REDE UTV BRASIL
-https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-name="REVIVA TV" tvg-country="BR" tvg-language="Portuguese",REVIVA TV
-https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-name="SEVEN TV" tvg-country="BR" tvg-language="Portuguese",SEVEN TV
-https://stmv1.srvif.com/seventv/seventv/playlist.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-name="TV ARACATI" tvg-country="BR" tvg-language="Portuguese",TV ARACATI
-https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-name="TV CARIOCA INTERNACIONAL" tvg-country="BR" tvg-language="Portuguese",TV CARIOCA INTERNACIONAL
-https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-name="TV CLUBE SJN" tvg-country="BR" tvg-language="Portuguese",TV CLUBE SJN
-https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-name="TV GOITACÁ" tvg-country="BR" tvg-language="Portuguese",TV GOITACÁ
-https://video01.brascast.com/david7639/david7639/playlist.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-name="TV MAIS BRASIL" tvg-country="BR" tvg-language="Portuguese",TV MAIS BRASIL
-https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-name="TV MARAJOARA (Rede Brasil PA)" tvg-country="BR" tvg-language="Portuguese",TV MARAJOARA (Rede Brasil PA)
-https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-name="TV MON HD" tvg-country="BR" tvg-language="Portuguese",TV MON HD
-https://video10.logicahost.com.br/tvmon/tvmon/playlist.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-name="TV SANTA" tvg-country="BR" tvg-language="Portuguese",TV SANTA
-https://video04.logicahost.com.br/tvsanta/tvsanta/playlist.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-name="TV WEB SÃO LUIS CANOAS RS" tvg-country="BR" tvg-language="Portuguese",TV WEB SÃO LUIS CANOAS RS
-https://stmv1.samcast.com.br/enei9364/enei9364/playlist.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-name="TV WTJMINAS" tvg-country="BR" tvg-language="Portuguese",TV WTJMINAS
-https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-name="VIVA WEB TV" tvg-country="BR" tvg-language="Portuguese",VIVA WEB TV
-https://video01.brascast.com/cypriano46326/cypriano46326/playlist.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-name="WEB CANAL BLECAUTE TV" tvg-country="BR" tvg-language="Portuguese",WEB CANAL BLECAUTE TV
-https://stmv2.srvsh.com.br/deivisondaconceicao4233/deivisondaconceicao4233/playlist.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-name="WEB TV AMPARO" tvg-country="BR" tvg-language="Portuguese",WEB TV AMPARO
-https://stmv6.voxtvhd.com.br/lupercio5913/lupercio5913/playlist.m3u8
+#EXTINF:-1 group-title="Filmes" tvg-name="CHANNEL 1" tvg-country="BR" tvg-language="Portuguese",CHANNEL 1
+https://stmv2.painelvideocast.com.br/movies1/movies1/playlist.m3u8
 #EXTINF:-1 group-title="Filmes" tvg-name="XTREME TV" tvg-country="BR" tvg-language="Portuguese",XTREME TV
 https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
-#EXTINF:-1 group-title="Seriados" tvg-name="CANAL BSTV" tvg-country="BR" tvg-language="Portuguese",CANAL BSTV
-https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8
-#EXTINF:-1 group-title="Seriados" tvg-name="CLASSIQUE TV SÉRIES" tvg-country="BR" tvg-language="Portuguese",CLASSIQUE TV SÉRIES
-https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:-1 group-title="Seriados" tvg-name="CLOUDING TV" tvg-country="BR" tvg-language="Portuguese",CLOUDING TV
-https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
-#EXTINF:-1 group-title="Seriados" tvg-name="ISTV" tvg-country="BR" tvg-language="Portuguese",ISTV
-https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
-#EXTINF:-1 group-title="Seriados" tvg-name="MULTICANAIS" tvg-country="BR" tvg-language="Portuguese",MULTICANAIS
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
-#EXTINF:-1 group-title="Seriados" tvg-name="REDE NGT" tvg-country="BR" tvg-language="Portuguese",REDE NGT
-https://isaocorp.cloudecast.com/ngt/index.m3u8
-#EXTINF:-1 group-title="Seriados" tvg-name="REDE UTV BRASIL" tvg-country="BR" tvg-language="Portuguese",REDE UTV BRASIL
-https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
-#EXTINF:-1 group-title="Seriados" tvg-name="REVIVA TV" tvg-country="BR" tvg-language="Portuguese",REVIVA TV
-https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
-#EXTINF:-1 group-title="Seriados" tvg-name="SEVEN TV" tvg-country="BR" tvg-language="Portuguese",SEVEN TV
-https://stmv1.srvif.com/seventv/seventv/playlist.m3u8
-#EXTINF:-1 group-title="Seriados" tvg-name="TV ARACATI" tvg-country="BR" tvg-language="Portuguese",TV ARACATI
-https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
-#EXTINF:-1 group-title="Seriados" tvg-name="TV CLUBE SJN" tvg-country="BR" tvg-language="Portuguese",TV CLUBE SJN
-https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
-#EXTINF:-1 group-title="Seriados" tvg-name="TV GOITACÁ" tvg-country="BR" tvg-language="Portuguese",TV GOITACÁ
-https://video01.brascast.com/david7639/david7639/playlist.m3u8
-#EXTINF:-1 group-title="Seriados" tvg-name="TV MAIS BRASIL" tvg-country="BR" tvg-language="Portuguese",TV MAIS BRASIL
-https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
-#EXTINF:-1 group-title="Seriados" tvg-name="TV MARAJOARA (Rede Brasil PA)" tvg-country="BR" tvg-language="Portuguese",TV MARAJOARA (Rede Brasil PA)
-https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
-#EXTINF:-1 group-title="Seriados" tvg-name="TV MON HD" tvg-country="BR" tvg-language="Portuguese",TV MON HD
-https://video10.logicahost.com.br/tvmon/tvmon/playlist.m3u8
-#EXTINF:-1 group-title="Seriados" tvg-name="TV POMPEIA" tvg-country="BR" tvg-language="Portuguese",TV POMPEIA
-https://stmv1.srvif.com/ferrera/ferrera/playlist.m3u8
-#EXTINF:-1 group-title="Seriados" tvg-name="TV SANTA" tvg-country="BR" tvg-language="Portuguese",TV SANTA
-https://video04.logicahost.com.br/tvsanta/tvsanta/playlist.m3u8
-#EXTINF:-1 group-title="Seriados" tvg-name="TV WEB SÃO LUIS CANOAS RS" tvg-country="BR" tvg-language="Portuguese",TV WEB SÃO LUIS CANOAS RS
-https://stmv1.samcast.com.br/enei9364/enei9364/playlist.m3u8
-#EXTINF:-1 group-title="Seriados" tvg-name="WEB TV AMPARO" tvg-country="BR" tvg-language="Portuguese",WEB TV AMPARO
-https://stmv6.voxtvhd.com.br/lupercio5913/lupercio5913/playlist.m3u8
+#EXTINF:-1 group-title="Seriados" tvg-name="SÉRIES CLASSIC" tvg-country="BR" tvg-language="Portuguese",SÉRIES CLASSIC
+https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
 #EXTINF:-1 group-title="Seriados" tvg-name="XTREME TV" tvg-country="BR" tvg-language="Portuguese",XTREME TV
 https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="1980 CHANNEL" tvg-country="BR" tvg-language="Portuguese",1980 CHANNEL
-https://stmv2.painelvideocast.com.br/channel80/channel80/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="CANAL BSTV" tvg-country="BR" tvg-language="Portuguese",CANAL BSTV
-https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="CLASSIQUE TV" tvg-country="BR" tvg-language="Portuguese",CLASSIQUE TV
-https://stmv1.srvif.com/classique/classique/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="CLASSIQUE TV SÉRIES" tvg-country="BR" tvg-language="Portuguese",CLASSIQUE TV SÉRIES
-https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="CLOUDING TV" tvg-country="BR" tvg-language="Portuguese",CLOUDING TV
-https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="ISTV" tvg-country="BR" tvg-language="Portuguese",ISTV
-https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="JETSONS TV" tvg-country="BR" tvg-language="Portuguese",JETSONS TV
-https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="MULTICANAIS" tvg-country="BR" tvg-language="Portuguese",MULTICANAIS
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="NOW 80'S" tvg-country="BR" tvg-language="Portuguese",NOW 80'S
-https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="REDE NGT" tvg-country="BR" tvg-language="Portuguese",REDE NGT
-https://isaocorp.cloudecast.com/ngt/index.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="REDE TV MAIS" tvg-country="BR" tvg-language="Portuguese",REDE TV MAIS
-https://video09.logicahost.com.br/redetvmais/redetvmais/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="REDE UTV BRASIL" tvg-country="BR" tvg-language="Portuguese",REDE UTV BRASIL
-https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
+#EXTINF:-1 group-title="Clássicos" tvg-name="CHANNEL 1" tvg-country="BR" tvg-language="Portuguese",CHANNEL 1
+https://stmv2.painelvideocast.com.br/movies1/movies1/playlist.m3u8
 #EXTINF:-1 group-title="Clássicos" tvg-name="RETRÔ CARTOON" tvg-country="BR" tvg-language="Portuguese",RETRÔ CARTOON
 https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="REVIVA TV" tvg-country="BR" tvg-language="Portuguese",REVIVA TV
-https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="SEVEN TV" tvg-country="BR" tvg-language="Portuguese",SEVEN TV
-https://stmv1.srvif.com/seventv/seventv/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="TV ARACATI" tvg-country="BR" tvg-language="Portuguese",TV ARACATI
-https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="TV CARIOCA INTERNACIONAL" tvg-country="BR" tvg-language="Portuguese",TV CARIOCA INTERNACIONAL
-https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="TV CLUBE SJN" tvg-country="BR" tvg-language="Portuguese",TV CLUBE SJN
-https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="TV GOITACÁ" tvg-country="BR" tvg-language="Portuguese",TV GOITACÁ
-https://video01.brascast.com/david7639/david7639/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="TV MAIS BRASIL" tvg-country="BR" tvg-language="Portuguese",TV MAIS BRASIL
-https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="TV MARAJOARA (Rede Brasil PA)" tvg-country="BR" tvg-language="Portuguese",TV MARAJOARA (Rede Brasil PA)
-https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="TV MON HD" tvg-country="BR" tvg-language="Portuguese",TV MON HD
-https://video10.logicahost.com.br/tvmon/tvmon/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="TV POMPEIA" tvg-country="BR" tvg-language="Portuguese",TV POMPEIA
-https://stmv1.srvif.com/ferrera/ferrera/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="TV SANTA" tvg-country="BR" tvg-language="Portuguese",TV SANTA
-https://video04.logicahost.com.br/tvsanta/tvsanta/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="TV WEB SÃO LUIS CANOAS RS" tvg-country="BR" tvg-language="Portuguese",TV WEB SÃO LUIS CANOAS RS
-https://stmv1.samcast.com.br/enei9364/enei9364/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="TV WTJMINAS" tvg-country="BR" tvg-language="Portuguese",TV WTJMINAS
-https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="VCLASSIC TV" tvg-country="BR" tvg-language="Portuguese",VCLASSIC TV
-https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="VCLASSIC TV TROPICAL" tvg-country="BR" tvg-language="Portuguese",VCLASSIC TV TROPICAL
-https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="VINTAGE TV" tvg-country="BR" tvg-language="Portuguese",VINTAGE TV
-https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="VIVA WEB TV" tvg-country="BR" tvg-language="Portuguese",VIVA WEB TV
-https://video01.brascast.com/cypriano46326/cypriano46326/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="WEB CANAL BLECAUTE TV" tvg-country="BR" tvg-language="Portuguese",WEB CANAL BLECAUTE TV
-https://stmv2.srvsh.com.br/deivisondaconceicao4233/deivisondaconceicao4233/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="WEB TV AMPARO" tvg-country="BR" tvg-language="Portuguese",WEB TV AMPARO
-https://stmv6.voxtvhd.com.br/lupercio5913/lupercio5913/playlist.m3u8
+#EXTINF:-1 group-title="Clássicos" tvg-name="SÉRIES CLASSIC" tvg-country="BR" tvg-language="Portuguese",SÉRIES CLASSIC
+https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
 #EXTINF:-1 group-title="Clássicos" tvg-name="XTREME TV" tvg-country="BR" tvg-language="Portuguese",XTREME TV
 https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
-#EXTINF:-1 group-title="Desenhos" tvg-name="JETSONS TV" tvg-country="BR" tvg-language="Portuguese",JETSONS TV
-https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+#EXTINF:-1 group-title="Desenhos" tvg-name="GOSPEL CARTOON" tvg-country="BR" tvg-language="Portuguese",GOSPEL CARTOON
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 group-title="Desenhos" tvg-name="KURIAKOS KIDS" tvg-country="BR" tvg-language="Portuguese",KURIAKOS KIDS
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 group-title="Desenhos" tvg-name="RETRÔ CARTOON" tvg-country="BR" tvg-language="Portuguese",RETRÔ CARTOON
 https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
-#EXTINF:-1 group-title="Desenhos" tvg-name="TV POMPEIA" tvg-country="BR" tvg-language="Portuguese",TV POMPEIA
-https://stmv1.srvif.com/ferrera/ferrera/playlist.m3u8
-#EXTINF:-1 group-title="Desenhos" tvg-name="WORDING TV" tvg-country="BR" tvg-language="Portuguese",WORDING TV
-https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="CANAL BSTV" tvg-country="BR" tvg-language="Portuguese",CANAL BSTV
-https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="ISTV" tvg-country="BR" tvg-language="Portuguese",ISTV
-https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="MULTICANAIS" tvg-country="BR" tvg-language="Portuguese",MULTICANAIS
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="REDE NGT" tvg-country="BR" tvg-language="Portuguese",REDE NGT
-https://isaocorp.cloudecast.com/ngt/index.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="REDE TV MAIS" tvg-country="BR" tvg-language="Portuguese",REDE TV MAIS
-https://video09.logicahost.com.br/redetvmais/redetvmais/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="REDE UTV BRASIL" tvg-country="BR" tvg-language="Portuguese",REDE UTV BRASIL
-https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="REVIVA TV" tvg-country="BR" tvg-language="Portuguese",REVIVA TV
-https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="SEVEN TV" tvg-country="BR" tvg-language="Portuguese",SEVEN TV
-https://stmv1.srvif.com/seventv/seventv/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="TV ARACATI" tvg-country="BR" tvg-language="Portuguese",TV ARACATI
-https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="TV CARIOCA INTERNACIONAL" tvg-country="BR" tvg-language="Portuguese",TV CARIOCA INTERNACIONAL
-https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="TV GOITACÁ" tvg-country="BR" tvg-language="Portuguese",TV GOITACÁ
-https://video01.brascast.com/david7639/david7639/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="TV MAIS BRASIL" tvg-country="BR" tvg-language="Portuguese",TV MAIS BRASIL
-https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="TV MARAJOARA (Rede Brasil PA)" tvg-country="BR" tvg-language="Portuguese",TV MARAJOARA (Rede Brasil PA)
-https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="TV MON HD" tvg-country="BR" tvg-language="Portuguese",TV MON HD
-https://video10.logicahost.com.br/tvmon/tvmon/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="TV POMPEIA" tvg-country="BR" tvg-language="Portuguese",TV POMPEIA
-https://stmv1.srvif.com/ferrera/ferrera/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="TV SANTA" tvg-country="BR" tvg-language="Portuguese",TV SANTA
-https://video04.logicahost.com.br/tvsanta/tvsanta/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="TV WTJMINAS" tvg-country="BR" tvg-language="Portuguese",TV WTJMINAS
-https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="VIVA WEB TV" tvg-country="BR" tvg-language="Portuguese",VIVA WEB TV
-https://video01.brascast.com/cypriano46326/cypriano46326/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="WEB CANAL BLECAUTE TV" tvg-country="BR" tvg-language="Portuguese",WEB CANAL BLECAUTE TV
-https://stmv2.srvsh.com.br/deivisondaconceicao4233/deivisondaconceicao4233/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="WEB TV AMPARO" tvg-country="BR" tvg-language="Portuguese",WEB TV AMPARO
-https://stmv6.voxtvhd.com.br/lupercio5913/lupercio5913/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="WORDING TV" tvg-country="BR" tvg-language="Portuguese",WORDING TV
-https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
-#EXTINF:-1 group-title="Animes" tvg-name="ANIME TV" tvg-country="BR" tvg-language="Portuguese",ANIME TV
-https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8
-#EXTINF:-1 group-title="Animes" tvg-name="WORDING TV" tvg-country="BR" tvg-language="Portuguese",WORDING TV
-https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
-#EXTINF:-1 group-title="Músicas" tvg-name="NOW 80'S" tvg-country="BR" tvg-language="Portuguese",NOW 80'S
-https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 group-title="Músicas" tvg-name="VCLASSIC TV" tvg-country="BR" tvg-language="Portuguese",VCLASSIC TV
-https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
-#EXTINF:-1 group-title="Músicas" tvg-name="VCLASSIC TV TROPICAL" tvg-country="BR" tvg-language="Portuguese",VCLASSIC TV TROPICAL
-https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8
-#EXTINF:-1 group-title="Músicas" tvg-name="VINTAGE TV" tvg-country="BR" tvg-language="Portuguese",VINTAGE TV
-https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8
-#EXTINF:-1 group-title="Videoclipes Musical" tvg-name="NOW 80'S" tvg-country="BR" tvg-language="Portuguese",NOW 80'S
-https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 group-title="Videoclipes Musical" tvg-name="VCLASSIC TV" tvg-country="BR" tvg-language="Portuguese",VCLASSIC TV
-https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
-#EXTINF:-1 group-title="Videoclipes Musical" tvg-name="VCLASSIC TV TROPICAL" tvg-country="BR" tvg-language="Portuguese",VCLASSIC TV TROPICAL
-https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8
-#EXTINF:-1 group-title="Governamentais" tvg-name="CANAL GOV" tvg-country="BR" tvg-language="Portuguese",CANAL GOV
-https://canalgov-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 group-title="Governamentais" tvg-name="TV ALBA" tvg-country="BR" tvg-language="Portuguese",TV ALBA
-https://live.mediastreaming.com.br/alba/cdn.stream/playlist.m3u8
-#EXTINF:-1 group-title="Governamentais" tvg-name="TV CÂMARA 1" tvg-country="BR" tvg-language="Portuguese",TV CÂMARA 1
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 group-title="Culinárias" tvg-name="MASTERCHEF BRASIL" tvg-country="BR" tvg-language="Portuguese",MASTERCHEF BRASIL
-https://amg00627-banijay-amg00627c9-plex-us-1999.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-plexus/playlist.m3u8
-#EXTINF:-1 group-title="Automóveis" tvg-name="DRIVE CHANNEL TV" tvg-country="BR" tvg-language="Portuguese",DRIVE CHANNEL TV
-https://stmv1.voxplayer.com.br/drivechannel/drivechannel/playlist.m3u8
-#EXTINF:-1 group-title="Automóveis" tvg-name="GARAGE TV" tvg-country="BR" tvg-language="Portuguese",GARAGE TV
-https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 group-title="Automóveis" tvg-name="MOTORVISION TV" tvg-country="BR" tvg-language="Portuguese",MOTORVISION TV
-https://mvg-mv.otteravision.com/mvg/mv/mv_1080p.m3u8
-#EXTINF:-1 group-title="Televendas" tvg-name="TV TUDO BH" tvg-country="BR" tvg-language="Portuguese",TV TUDO BH
-https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-name="MAVTV BRASIL" tvg-country="BR" tvg-language="Portuguese",MAVTV BRASIL
+https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-name="REAL MADRID TV" tvg-country="BR" tvg-language="Portuguese",REAL MADRID TV
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-name="UNIQUE SPORTS 2" tvg-country="BR" tvg-language="Portuguese",UNIQUE SPORTS 2
+https://pop2.uniquetv.com.br/hls/uniquesports2.m3u8
+#EXTINF:-1 group-title="Músicas" tvg-name="TOP MIX TV GOSPEL 2" tvg-country="BR" tvg-language="Portuguese",TOP MIX TV GOSPEL 2
+https://video01.logicahost.com.br/topmixtvgospelcanal03/topmixtvgospelcanal03/playlist.m3u8
+#EXTINF:-1 group-title="Evangélicos" tvg-name="GOSPEL CARTOON" tvg-country="BR" tvg-language="Portuguese",GOSPEL CARTOON
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 group-title="Evangélicos" tvg-name="KURIAKOS KIDS" tvg-country="BR" tvg-language="Portuguese",KURIAKOS KIDS
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 group-title="Evangélicos" tvg-name="TOP MIX TV GOSPEL 2" tvg-country="BR" tvg-language="Portuguese",TOP MIX TV GOSPEL 2
+https://video01.logicahost.com.br/topmixtvgospelcanal03/topmixtvgospelcanal03/playlist.m3u8
+#EXTINF:-1 group-title="Evangélicos" tvg-name="TV ADORANDO JESUS" tvg-country="BR" tvg-language="Portuguese",TV ADORANDO JESUS
+https://stmv1.srvif.com/tvadorando/tvadorando/playlist.m3u8
+#EXTINF:-1 group-title="Evangélicos" tvg-name="TV CONEXÃO CELESTIAL" tvg-country="BR" tvg-language="Portuguese",TV CONEXÃO CELESTIAL
+https://stmv7.voxtvhd.com.br/tvconexaocelestial/tvconexaocelestial/playlist.m3u8
+#EXTINF:-1 group-title="Evangélicos" tvg-name="TV GIDEÕES" tvg-country="BR" tvg-language="Portuguese",TV GIDEÕES
+https://tv01.zas.media:1936/gideoes/gideoes/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-name="KURIAKOS KIDS" tvg-country="BR" tvg-language="Portuguese",KURIAKOS KIDS
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 group-title="Notícias do Mundo" tvg-name="ABC NEWS" tvg-country="BR" tvg-language="Portuguese",ABC NEWS
+https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/playlist.m3u8
