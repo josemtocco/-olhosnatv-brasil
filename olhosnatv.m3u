@@ -35,8 +35,6 @@ https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 https://68882bdaf156a.streamlock.net/interteve/ngrp:interteve_all/playlist.m3u8
 #EXTINF:-1 group-title="TVs Abertas" tvg-name="REDE NGT" tvg-country="BR" tvg-language="Portuguese",REDE NGT
 https://isaocorp.cloudecast.com/ngt/index.m3u8
-#EXTINF:-1 group-title="TVs Abertas" tvg-name="REDE SUPER" tvg-country="BR" tvg-language="Portuguese",REDE SUPER
-https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8
 #EXTINF:-1 group-title="TVs Abertas" tvg-name="REDE SÉCULO 21" tvg-country="BR" tvg-language="Portuguese",REDE SÉCULO 21
 https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/playlist.m3u8
 #EXTINF:-1 group-title="TVs Abertas" tvg-name="REDE TV! TOCANTINS" tvg-country="BR" tvg-language="Portuguese",REDE TV! TOCANTINS
@@ -51,8 +49,6 @@ https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
 #EXTINF:-1 group-title="TVs Abertas" tvg-name="TV AMPLITUDE JUARA (Record MT)" tvg-country="BR" tvg-language="Portuguese",TV AMPLITUDE JUARA (Record MT)
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
-#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV AMPLITUDE JUÍNA (Record MT)" tvg-country="BR" tvg-language="Portuguese",TV AMPLITUDE JUÍNA (Record MT)
-https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 group-title="TVs Abertas" tvg-name="TV APARECIDA" tvg-country="BR" tvg-language="Portuguese",TV APARECIDA
 https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 group-title="TVs Abertas" tvg-name="TV ARAPUAN (Band PB)" tvg-country="BR" tvg-language="Portuguese",TV ARAPUAN (Band PB)
@@ -235,8 +231,6 @@ https://stmv1.samcast.com.br/jeova3318/jeova3318/playlist.m3u8
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 #EXTINF:-1 group-title="Filmes" tvg-name="TV SANTA" tvg-country="BR" tvg-language="Portuguese",TV SANTA
 https://video04.logicahost.com.br/tvsanta/tvsanta/playlist.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-name="TV SERRA FARROUPILHA" tvg-country="BR" tvg-language="Portuguese",TV SERRA FARROUPILHA
-https://stmv1.samcast.com.br/israel4434/israel4434/playlist.m3u8
 #EXTINF:-1 group-title="Filmes" tvg-name="TV VARGEM" tvg-country="BR" tvg-language="Portuguese",TV VARGEM
 https://video01.brascast.com/marilia2344/marilia2344/playlist.m3u8
 #EXTINF:-1 group-title="Filmes" tvg-name="TV WTJMINAS" tvg-country="BR" tvg-language="Portuguese",TV WTJMINAS
@@ -577,8 +571,6 @@ https://cdn.live.br1.jmvstream.com/webtv/AVJ-15327/playlist/playlist.m3u8
 https://tv02.zas.media:1936/alvoradasertaneja/alvoradasertaneja/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-name="TV AMPLITUDE JUARA (Record MT)" tvg-country="BR" tvg-language="Portuguese",TV AMPLITUDE JUARA (Record MT)
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="TV AMPLITUDE JUÍNA (Record MT)" tvg-country="BR" tvg-language="Portuguese",TV AMPLITUDE JUÍNA (Record MT)
-https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-name="TV ARACATI" tvg-country="BR" tvg-language="Portuguese",TV ARACATI
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-name="TV ARAPUAN (Band PB)" tvg-country="BR" tvg-language="Portuguese",TV ARAPUAN (Band PB)
@@ -611,6 +603,8 @@ https://5c483b9d1019c.streamlock.net/camaragibeagoratv/camaragibeagoratv/playlis
 https://video05.logicahost.com.br/elydeolive/elydeolive/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-name="TV CANAL 10" tvg-country="BR" tvg-language="Portuguese",TV CANAL 10
 https://canaldez.acessaradios.com.br/canaldez/canaldez/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="TV CARAVELAS" tvg-country="BR" tvg-language="Portuguese",TV CARAVELAS
+https://video09.logicahost.com.br/tvcaravelas/tvcaravelas/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-name="TV CARIOCA INTERNACIONAL" tvg-country="BR" tvg-language="Portuguese",TV CARIOCA INTERNACIONAL
 https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-name="TV CERRADO" tvg-country="BR" tvg-language="Portuguese",TV CERRADO
@@ -779,8 +773,6 @@ https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
 https://video04.logicahost.com.br/tvsanta/tvsanta/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-name="TV SANTA CECÍLIA" tvg-country="BR" tvg-language="Portuguese",TV SANTA CECÍLIA
 https://video11.logicahost.com.br/unisantaapp/unisantaapp/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="TV SERRA FARROUPILHA" tvg-country="BR" tvg-language="Portuguese",TV SERRA FARROUPILHA
-https://stmv1.samcast.com.br/israel4434/israel4434/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-name="TV SERTÃO PB" tvg-country="BR" tvg-language="Portuguese",TV SERTÃO PB
 https://stmv7.samcast.com.br/tvsertao/tvsertao/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-name="TV SETE LAGOAS" tvg-country="BR" tvg-language="Portuguese",TV SETE LAGOAS
@@ -821,8 +813,6 @@ https://stmv1.samcast.com.br/junior5083/junior5083/playlist.m3u8
 https://video01.logicahost.com.br/tvc16/tvc16/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-name="TVC ARAÇATUBA (TV Gazeta SP)" tvg-country="BR" tvg-language="Portuguese",TVC ARAÇATUBA (TV Gazeta SP)
 https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="TVC BRASIL DE NOTÍCIAS" tvg-country="BR" tvg-language="Portuguese",TVC BRASIL DE NOTÍCIAS
-https://stmv1.srvif.com/tvcbrasil/tvcbrasil/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-name="TVC JAÚ" tvg-country="BR" tvg-language="Portuguese",TVC JAÚ
 https://cdn.live.br1.jmvstream.com/w/LVW-10889/LVW10889_2WEZNQGi20/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-name="TVC RIO" tvg-country="BR" tvg-language="Portuguese",TVC RIO
@@ -833,8 +823,6 @@ https://59d39900ebfb8.streamlock.net/tvcipcam/tvcipcam.stream/playlist.m3u8
 https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-name="TVE UEPG (TV Brasil PR)" tvg-country="BR" tvg-language="Portuguese",TVE UEPG (TV Brasil PR)
 https://live01-pgz.cdn.uepg.br/hls/stream.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="TVM PARÁ" tvg-country="BR" tvg-language="Portuguese",TVM PARÁ
-https://video09.logicahost.com.br/tvmpara/tvmpara/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-name="TVR SUL" tvg-country="BR" tvg-language="Portuguese",TVR SUL
 https://5a57bda70564a.streamlock.net/tvrsul/tvrsul.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-name="TVSDB" tvg-country="BR" tvg-language="Portuguese",TVSDB
@@ -965,6 +953,8 @@ https://srv5.zcast.com.br/tvcafe/tvcafe/playlist.m3u8
 https://stmv2.voxtvhd.com.br/franciscocarlos3733/franciscocarlos3733/playlist.m3u8
 #EXTINF:-1 group-title="Músicas" tvg-name="TV POP BRASIL" tvg-country="BR" tvg-language="Portuguese",TV POP BRASIL
 https://video05.logicahost.com.br/tvpopbrasil/tvpopbrasil/playlist.m3u8
+#EXTINF:-1 group-title="Músicas" tvg-name="TV PORTAL ATIVO" tvg-country="BR" tvg-language="Portuguese",TV PORTAL ATIVO
+https://flussonic-tv2.jupiter.com.br/portalativo/index.m3u8
 #EXTINF:-1 group-title="Músicas" tvg-name="TV RÁDIO LITORAL" tvg-country="BR" tvg-language="Portuguese",TV RÁDIO LITORAL
 https://video08.logicahost.com.br/tvradiolitoral/tvradiolitoral/playlist.m3u8
 #EXTINF:-1 group-title="Músicas" tvg-name="TV TRANSJOVEM" tvg-country="BR" tvg-language="Portuguese",TV TRANSJOVEM
@@ -1009,8 +999,6 @@ https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 https://stmv1.samcast.com.br/redeluzparavida/redeluzparavida/playlist.m3u8
 #EXTINF:-1 group-title="Evangélicos" tvg-name="REDE MUNDIAL INTERTEVE" tvg-country="BR" tvg-language="Portuguese",REDE MUNDIAL INTERTEVE
 https://68882bdaf156a.streamlock.net/interteve/ngrp:interteve_all/playlist.m3u8
-#EXTINF:-1 group-title="Evangélicos" tvg-name="REDE SUPER" tvg-country="BR" tvg-language="Portuguese",REDE SUPER
-https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8
 #EXTINF:-1 group-title="Evangélicos" tvg-name="RIT TV" tvg-country="BR" tvg-language="Portuguese",RIT TV
 https://stream.ecast.com.br/rit-tv/index.m3u8
 #EXTINF:-1 group-title="Evangélicos" tvg-name="SEMEAR TV" tvg-country="BR" tvg-language="Portuguese",SEMEAR TV
@@ -1131,6 +1119,8 @@ https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/playlist.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/retroplustvuno/playlist.m3u8
 #EXTINF:-1 group-title="Videoclipes Musical" tvg-name="TRACE BRAZUCA" tvg-country="BR" tvg-language="Portuguese",TRACE BRAZUCA
 https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="Videoclipes Musical" tvg-name="TV PORTAL ATIVO" tvg-country="BR" tvg-language="Portuguese",TV PORTAL ATIVO
+https://flussonic-tv2.jupiter.com.br/portalativo/index.m3u8
 #EXTINF:-1 group-title="Videoclipes Musical" tvg-name="VCLASSIC TV" tvg-country="BR" tvg-language="Portuguese",VCLASSIC TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 #EXTINF:-1 group-title="Videoclipes Musical" tvg-name="VCLASSIC TV TROPICAL" tvg-country="BR" tvg-language="Portuguese",VCLASSIC TV TROPICAL
