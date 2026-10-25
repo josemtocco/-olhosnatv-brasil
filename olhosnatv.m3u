@@ -15,8 +15,6 @@ https://cdn.live.br1.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
 https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
 #EXTINF:-1 group-title="TVs Abertas" tvg-name="DIÁRIO DO BRASIL TV (TV Brasil SP)" tvg-country="BR" tvg-language="Portuguese",DIÁRIO DO BRASIL TV (TV Brasil SP)
 https://video01.brascast.com/paulispar7372/paulispar7372/playlist.m3u8
-#EXTINF:-1 group-title="TVs Abertas" tvg-name="FONTE TV" tvg-country="BR" tvg-language="Portuguese",FONTE TV
-https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/playlist.m3u8
 #EXTINF:-1 group-title="TVs Abertas" tvg-name="GUIA TV (TV Brasil PB)" tvg-country="BR" tvg-language="Portuguese",GUIA TV (TV Brasil PB)
 https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8
 #EXTINF:-1 group-title="TVs Abertas" tvg-name="ISTV" tvg-country="BR" tvg-language="Portuguese",ISTV
@@ -65,8 +63,6 @@ https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 group-title="TVs Abertas" tvg-name="TV BRASIL CENTRAL (TV Cultura GO)" tvg-country="BR" tvg-language="Portuguese",TV BRASIL CENTRAL (TV Cultura GO)
 https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
-#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV BRASIL OESTE (Rede Brasil MT)" tvg-country="BR" tvg-language="Portuguese",TV BRASIL OESTE (Rede Brasil MT)
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/chunklist_w635203776.m3u8
 #EXTINF:-1 group-title="TVs Abertas" tvg-name="TV BRUSQUE (TV Meio Norte SC)" tvg-country="BR" tvg-language="Portuguese",TV BRUSQUE (TV Meio Norte SC)
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/playlist.m3u8
 #EXTINF:-1 group-title="TVs Abertas" tvg-name="TV CANDIDÉS (TV Cultura MG)" tvg-country="BR" tvg-language="Portuguese",TV CANDIDÉS (TV Cultura MG)
@@ -195,8 +191,6 @@ https://stmv1.srvif.com/seventv/seventv/playlist.m3u8
 https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 #EXTINF:-1 group-title="Filmes" tvg-name="TV ARACATI" tvg-country="BR" tvg-language="Portuguese",TV ARACATI
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-name="TV BRASIL OESTE (Rede Brasil MT)" tvg-country="BR" tvg-language="Portuguese",TV BRASIL OESTE (Rede Brasil MT)
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/chunklist_w635203776.m3u8
 #EXTINF:-1 group-title="Filmes" tvg-name="TV CARIOCA INTERNACIONAL" tvg-country="BR" tvg-language="Portuguese",TV CARIOCA INTERNACIONAL
 https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
 #EXTINF:-1 group-title="Filmes" tvg-name="TV CIDADE BRASIL" tvg-country="BR" tvg-language="Portuguese",TV CIDADE BRASIL
@@ -273,8 +267,6 @@ https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 https://stmv1.srvif.com/seventv/seventv/playlist.m3u8
 #EXTINF:-1 group-title="Seriados" tvg-name="TV ARACATI" tvg-country="BR" tvg-language="Portuguese",TV ARACATI
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
-#EXTINF:-1 group-title="Seriados" tvg-name="TV BRASIL OESTE (Rede Brasil MT)" tvg-country="BR" tvg-language="Portuguese",TV BRASIL OESTE (Rede Brasil MT)
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/chunklist_w635203776.m3u8
 #EXTINF:-1 group-title="Seriados" tvg-name="TV CLUBE SJN" tvg-country="BR" tvg-language="Portuguese",TV CLUBE SJN
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 #EXTINF:-1 group-title="Seriados" tvg-name="TV GOITACÁ" tvg-country="BR" tvg-language="Portuguese",TV GOITACÁ
@@ -327,8 +319,6 @@ https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 https://stmv1.srvif.com/seventv/seventv/playlist.m3u8
 #EXTINF:-1 group-title="Clássicos" tvg-name="TV ARACATI" tvg-country="BR" tvg-language="Portuguese",TV ARACATI
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="TV BRASIL OESTE (Rede Brasil MT)" tvg-country="BR" tvg-language="Portuguese",TV BRASIL OESTE (Rede Brasil MT)
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/chunklist_w635203776.m3u8
 #EXTINF:-1 group-title="Clássicos" tvg-name="TV CARIOCA INTERNACIONAL" tvg-country="BR" tvg-language="Portuguese",TV CARIOCA INTERNACIONAL
 https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
 #EXTINF:-1 group-title="Clássicos" tvg-name="TV CLUBE SJN" tvg-country="BR" tvg-language="Portuguese",TV CLUBE SJN
@@ -477,6 +467,8 @@ https://stmv2.samcast.com.br/mamnews/mamnews/playlist.m3u8
 https://stmv1.samcast.com.br/migueljunior2043/migueljunior2043/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-name="NEWS TV" tvg-country="BR" tvg-language="Portuguese",NEWS TV
 https://video01.logicahost.com.br/newsrondonia/newsrondonia/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="NOVA ERA NEWS" tvg-country="BR" tvg-language="Portuguese",NOVA ERA NEWS
+https://stmv1.conectastreaming.com/novaera/novaera/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-name="NOVA ERA TV" tvg-country="BR" tvg-language="Portuguese",NOVA ERA TV
 https://5a2b083e9f360.streamlock.net/novaeratv/novaeratv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-name="NOVA RIO TV" tvg-country="BR" tvg-language="Portuguese",NOVA RIO TV
@@ -605,8 +597,6 @@ https://video04.logicahost.com.br/tvbeltrao/tvbeltrao/playlist.m3u8
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-name="TV BRASIL INTERNACIONAL" tvg-country="BR" tvg-language="Portuguese",TV BRASIL INTERNACIONAL
 https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="TV BRASIL OESTE (Rede Brasil MT)" tvg-country="BR" tvg-language="Portuguese",TV BRASIL OESTE (Rede Brasil MT)
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/chunklist_w635203776.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-name="TV BRICS" tvg-country="BR" tvg-language="Portuguese",TV BRICS
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-name="TV BRUSQUE (TV Meio Norte SC)" tvg-country="BR" tvg-language="Portuguese",TV BRUSQUE (TV Meio Norte SC)
@@ -619,8 +609,8 @@ https://srv5.zcast.com.br/tvcafe/tvcafe/playlist.m3u8
 https://5c483b9d1019c.streamlock.net/camaragibeagoratv/camaragibeagoratv/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-name="TV CAMPO GRANDE RJ" tvg-country="BR" tvg-language="Portuguese",TV CAMPO GRANDE RJ
 https://video05.logicahost.com.br/elydeolive/elydeolive/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="TV CARAVELAS" tvg-country="BR" tvg-language="Portuguese",TV CARAVELAS
-https://video09.logicahost.com.br/tvcaravelas/tvcaravelas/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="TV CANAL 10" tvg-country="BR" tvg-language="Portuguese",TV CANAL 10
+https://canaldez.acessaradios.com.br/canaldez/canaldez/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-name="TV CARIOCA INTERNACIONAL" tvg-country="BR" tvg-language="Portuguese",TV CARIOCA INTERNACIONAL
 https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-name="TV CERRADO" tvg-country="BR" tvg-language="Portuguese",TV CERRADO
@@ -991,8 +981,6 @@ https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
 #EXTINF:-1 group-title="Evangélicos" tvg-name="ADB TV" tvg-country="BR" tvg-language="Portuguese",ADB TV
 https://live.wayone.cloud/adbtv/adbtv/playlist.m3u8
-#EXTINF:-1 group-title="Evangélicos" tvg-name="FONTE TV" tvg-country="BR" tvg-language="Portuguese",FONTE TV
-https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/playlist.m3u8
 #EXTINF:-1 group-title="Evangélicos" tvg-name="GOSPEL CARTOON" tvg-country="BR" tvg-language="Portuguese",GOSPEL CARTOON
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 group-title="Evangélicos" tvg-name="GOSPEL MUSIC TELEVISION" tvg-country="BR" tvg-language="Portuguese",GOSPEL MUSIC TELEVISION
