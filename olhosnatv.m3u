@@ -55,8 +55,6 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 group-title="TVs Abertas" tvg-name="TV APARECIDA" tvg-country="BR" tvg-language="Portuguese",TV APARECIDA
 https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV ARAPUAN (Band PB)" tvg-country="BR" tvg-language="Portuguese",TV ARAPUAN (Band PB)
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 group-title="TVs Abertas" tvg-name="TV ARATU (SBT BA)" tvg-country="BR" tvg-language="Portuguese",TV ARATU (SBT BA)
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 #EXTINF:-1 group-title="TVs Abertas" tvg-name="TV BRASIL" tvg-country="BR" tvg-language="Portuguese",TV BRASIL
@@ -421,6 +419,8 @@ https://a.cdni.live/tvcanalricos/tvcanalricos/playlist.m3u8
 https://srv5.zcast.com.br/canalstart/canalstart/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-name="CANAL TV RIO" tvg-country="BR" tvg-language="Portuguese",CANAL TV RIO
 https://cdn.live.br1.jmvstream.com/webtv/obfyqwwa/playlist/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="CANAL TVR" tvg-country="BR" tvg-language="Portuguese",CANAL TVR
+https://stmv1.voxtvhd.com.br/4430/4430/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-name="CARAGUÁ TV" tvg-country="BR" tvg-language="Portuguese",CARAGUÁ TV
 https://stmv5.samcast.com.br/cesarvieira8491/cesarvieira8491/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-name="CARIRI TV" tvg-country="BR" tvg-language="Portuguese",CARIRI TV
@@ -551,6 +551,8 @@ https://v01.taaqui.org/joel/joel/playlist.m3u8
 https://video11.logicahost.com.br/sertaotv/sertaotv/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-name="SEVEN TV" tvg-country="BR" tvg-language="Portuguese",SEVEN TV
 https://stmv1.srvif.com/seventv/seventv/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="SIC TV" tvg-country="BR" tvg-language="Portuguese",SIC TV
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8?token=9344098597268136000
 #EXTINF:-1 group-title="Variedades" tvg-name="STZ TV (TV Brasil SP)" tvg-country="BR" tvg-language="Portuguese",STZ TV (TV Brasil SP)
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-name="TASTEMADE BRASIL" tvg-country="BR" tvg-language="Portuguese",TASTEMADE BRASIL
@@ -587,8 +589,6 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-name="TV ARACATI" tvg-country="BR" tvg-language="Portuguese",TV ARACATI
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="TV ARAPUAN (Band PB)" tvg-country="BR" tvg-language="Portuguese",TV ARAPUAN (Band PB)
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-name="TV ARATU (SBT BA)" tvg-country="BR" tvg-language="Portuguese",TV ARATU (SBT BA)
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-name="TV ATITUDE NEW" tvg-country="BR" tvg-language="Portuguese",TV ATITUDE NEW
@@ -805,6 +805,8 @@ https://stmv7.samcast.com.br/tvsertao/tvsertao/playlist.m3u8
 https://video04.logicahost.com.br/santiagoproducoes/santiagoproducoes/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-name="TV SÃO LUÍS (Rede TV! MA)" tvg-country="BR" tvg-language="Portuguese",TV SÃO LUÍS (Rede TV! MA)
 https://stmv1.srvif.com/tvsaoluis8/tvsaoluis8/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-name="TV SÃO RAIMUNDO" tvg-country="BR" tvg-language="Portuguese",TV SÃO RAIMUNDO
+https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-name="TV TODO DIA (TV Brasil SP)" tvg-country="BR" tvg-language="Portuguese",TV TODO DIA (TV Brasil SP)
 https://br5093.streamingdevideo.com.br/tvtododia/tvtododia/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-name="TV TROPICAL DE MARUDÁ" tvg-country="BR" tvg-language="Portuguese",TV TROPICAL DE MARUDÁ
@@ -983,6 +985,8 @@ https://srv5.zcast.com.br/tvcafe/tvcafe/playlist.m3u8
 https://stmv2.voxtvhd.com.br/franciscocarlos3733/franciscocarlos3733/playlist.m3u8
 #EXTINF:-1 group-title="Músicas" tvg-name="TV POP BRASIL" tvg-country="BR" tvg-language="Portuguese",TV POP BRASIL
 https://video05.logicahost.com.br/tvpopbrasil/tvpopbrasil/playlist.m3u8
+#EXTINF:-1 group-title="Músicas" tvg-name="TV PORTAL ATIVO" tvg-country="BR" tvg-language="Portuguese",TV PORTAL ATIVO
+https://flussonic-tv2.jupiter.com.br/portalativo/index.m3u8
 #EXTINF:-1 group-title="Músicas" tvg-name="TV RÁDIO LITORAL" tvg-country="BR" tvg-language="Portuguese",TV RÁDIO LITORAL
 https://video08.logicahost.com.br/tvradiolitoral/tvradiolitoral/playlist.m3u8
 #EXTINF:-1 group-title="Músicas" tvg-name="TV TRANSJOVEM" tvg-country="BR" tvg-language="Portuguese",TV TRANSJOVEM
@@ -1049,10 +1053,10 @@ https://video04.logicahost.com.br/tvapostolos/tvapostolos/playlist.m3u8
 https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/playlist.m3u8
 #EXTINF:-1 group-title="Evangélicos" tvg-name="TV CRISTO VIVE" tvg-country="BR" tvg-language="Portuguese",TV CRISTO VIVE
 https://cdn.live.br1.jmvstream.com/w/LVW-20948/LVW20948_bg8snCUyPo/playlist.m3u8
+#EXTINF:-1 group-title="Evangélicos" tvg-name="TV EL-SHADAI SALVADOR" tvg-country="BR" tvg-language="Portuguese",TV EL-SHADAI SALVADOR
+https://stmv1.voxtvhd.com.br/8000/8000/playlist.m3u8
 #EXTINF:-1 group-title="Evangélicos" tvg-name="TV EVANGÉLICA DO CARIRI" tvg-country="BR" tvg-language="Portuguese",TV EVANGÉLICA DO CARIRI
 https://5c483b9d1019c.streamlock.net/tvevangelicadocariri/tvevangelicadocariri/playlist.m3u8
-#EXTINF:-1 group-title="Evangélicos" tvg-name="TV GIDEÕES" tvg-country="BR" tvg-language="Portuguese",TV GIDEÕES
-https://tv01.zas.media:1936/gideoes/gideoes/playlist.m3u8
 #EXTINF:-1 group-title="Evangélicos" tvg-name="TV GOSPEL EXODUS DE SALVADOR" tvg-country="BR" tvg-language="Portuguese",TV GOSPEL EXODUS DE SALVADOR
 https://stmv7.samcast.com.br/tvexodus/tvexodus/playlist.m3u8
 #EXTINF:-1 group-title="Evangélicos" tvg-name="TV MAANAIM" tvg-country="BR" tvg-language="Portuguese",TV MAANAIM
@@ -1149,6 +1153,8 @@ https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8
 https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="Videoclipes Musical" tvg-name="TRACE BRAZUCA" tvg-country="BR" tvg-language="Portuguese",TRACE BRAZUCA
 https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="Videoclipes Musical" tvg-name="TV PORTAL ATIVO" tvg-country="BR" tvg-language="Portuguese",TV PORTAL ATIVO
+https://flussonic-tv2.jupiter.com.br/portalativo/index.m3u8
 #EXTINF:-1 group-title="Videoclipes Musical" tvg-name="VCLASSIC TV" tvg-country="BR" tvg-language="Portuguese",VCLASSIC TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 #EXTINF:-1 group-title="Videoclipes Musical" tvg-name="VCLASSIC TV TROPICAL" tvg-country="BR" tvg-language="Portuguese",VCLASSIC TV TROPICAL
