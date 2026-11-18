@@ -1,73 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="TVs Abertas" tvg-name="ISTV" tvg-country="BR" tvg-language="Portuguese",ISTV
-https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
-#EXTINF:-1 group-title="TVs Abertas" tvg-name="REDE BRASIL" tvg-country="BR" tvg-language="Portuguese",REDE BRASIL
-https://redebrasil.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 group-title="TVs Abertas" tvg-name="REDE TV! PARANÁ" tvg-country="BR" tvg-language="Portuguese",REDE TV! PARANÁ
-https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV AMPLITUDE JUARA (Record MT)" tvg-country="BR" tvg-language="Portuguese",TV AMPLITUDE JUARA (Record MT)
-https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
-#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV AMPLITUDE JUÍNA (Record MT)" tvg-country="BR" tvg-language="Portuguese",TV AMPLITUDE JUÍNA (Record MT)
-https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
-#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV CIDADE VERDE (SBT PI)" tvg-country="BR" tvg-language="Portuguese",TV CIDADE VERDE (SBT PI)
-https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
-#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV GUAJARÁ (SBT PA)" tvg-country="BR" tvg-language="Portuguese",TV GUAJARÁ (SBT PA)
-https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
-#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV MARAJOARA (Rede Brasil PA)" tvg-country="BR" tvg-language="Portuguese",TV MARAJOARA (Rede Brasil PA)
-https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
-#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV NBT (Rede NGT PA)" tvg-country="BR" tvg-language="Portuguese",TV NBT (Rede NGT PA)
-https://stmv2.srvif.com/nortebrtv/nortebrtv/playlist.m3u8
-#EXTINF:-1 group-title="TVs Abertas" tvg-name="TV ONE (TV Meio Norte PA)" tvg-country="BR" tvg-language="Portuguese",TV ONE (TV Meio Norte PA)
-https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-name="ISTV" tvg-country="BR" tvg-language="Portuguese",ISTV
-https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-name="REDE BRASIL" tvg-country="BR" tvg-language="Portuguese",REDE BRASIL
-https://redebrasil.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-name="TOP MIX TV FILMES" tvg-country="BR" tvg-language="Portuguese",TOP MIX TV FILMES
-https://video01.logicahost.com.br/topmixtvfilmes/topmixtvfilmes/playlist.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-name="TV MARAJOARA (Rede Brasil PA)" tvg-country="BR" tvg-language="Portuguese",TV MARAJOARA (Rede Brasil PA)
-https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-name="TV NBT (Rede NGT PA)" tvg-country="BR" tvg-language="Portuguese",TV NBT (Rede NGT PA)
-https://stmv2.srvif.com/nortebrtv/nortebrtv/playlist.m3u8
-#EXTINF:-1 group-title="Filmes" tvg-name="TV ONE (TV Meio Norte PA)" tvg-country="BR" tvg-language="Portuguese",TV ONE (TV Meio Norte PA)
-https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
-#EXTINF:-1 group-title="Seriados" tvg-name="ISTV" tvg-country="BR" tvg-language="Portuguese",ISTV
-https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
-#EXTINF:-1 group-title="Seriados" tvg-name="REDE BRASIL" tvg-country="BR" tvg-language="Portuguese",REDE BRASIL
-https://redebrasil.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Seriados" tvg-name="TV MARAJOARA (Rede Brasil PA)" tvg-country="BR" tvg-language="Portuguese",TV MARAJOARA (Rede Brasil PA)
-https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
-#EXTINF:-1 group-title="Seriados" tvg-name="TV NBT (Rede NGT PA)" tvg-country="BR" tvg-language="Portuguese",TV NBT (Rede NGT PA)
-https://stmv2.srvif.com/nortebrtv/nortebrtv/playlist.m3u8
-#EXTINF:-1 group-title="Seriados" tvg-name="TV ONE (TV Meio Norte PA)" tvg-country="BR" tvg-language="Portuguese",TV ONE (TV Meio Norte PA)
-https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="ISTV" tvg-country="BR" tvg-language="Portuguese",ISTV
-https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="REDE BRASIL" tvg-country="BR" tvg-language="Portuguese",REDE BRASIL
-https://redebrasil.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="TV MARAJOARA (Rede Brasil PA)" tvg-country="BR" tvg-language="Portuguese",TV MARAJOARA (Rede Brasil PA)
-https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
-#EXTINF:-1 group-title="Clássicos" tvg-name="TV NBT (Rede NGT PA)" tvg-country="BR" tvg-language="Portuguese",TV NBT (Rede NGT PA)
-https://stmv2.srvif.com/nortebrtv/nortebrtv/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="ISTV" tvg-country="BR" tvg-language="Portuguese",ISTV
-https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="REDE BRASIL" tvg-country="BR" tvg-language="Portuguese",REDE BRASIL
-https://redebrasil.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="REDE TV! PARANÁ" tvg-country="BR" tvg-language="Portuguese",REDE TV! PARANÁ
-https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="TV AMPLITUDE JUARA (Record MT)" tvg-country="BR" tvg-language="Portuguese",TV AMPLITUDE JUARA (Record MT)
-https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="TV AMPLITUDE JUÍNA (Record MT)" tvg-country="BR" tvg-language="Portuguese",TV AMPLITUDE JUÍNA (Record MT)
-https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="TV CIDADE VERDE (SBT PI)" tvg-country="BR" tvg-language="Portuguese",TV CIDADE VERDE (SBT PI)
-https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="TV GUAJARÁ (SBT PA)" tvg-country="BR" tvg-language="Portuguese",TV GUAJARÁ (SBT PA)
-https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="TV MARAJOARA (Rede Brasil PA)" tvg-country="BR" tvg-language="Portuguese",TV MARAJOARA (Rede Brasil PA)
-https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="TV NBT (Rede NGT PA)" tvg-country="BR" tvg-language="Portuguese",TV NBT (Rede NGT PA)
-https://stmv2.srvif.com/nortebrtv/nortebrtv/playlist.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-name="TV ONE (TV Meio Norte PA)" tvg-country="BR" tvg-language="Portuguese",TV ONE (TV Meio Norte PA)
-https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
-#EXTINF:-1 group-title="Filmes Gospel" tvg-name="TOP MIX TV FILMES" tvg-country="BR" tvg-language="Portuguese",TOP MIX TV FILMES
-https://video01.logicahost.com.br/topmixtvfilmes/topmixtvfilmes/playlist.m3u8
+#EXTINF:-1 group-title="Clássicos" tvg-name="JETSONS TV" tvg-country="BR" tvg-language="Portuguese",JETSONS TV
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+#EXTINF:-1 group-title="Clássicos" tvg-name="NOW 80'S" tvg-country="BR" tvg-language="Portuguese",NOW 80'S
+https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 group-title="Desenhos" tvg-name="JETSONS TV" tvg-country="BR" tvg-language="Portuguese",JETSONS TV
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+#EXTINF:-1 group-title="Desenhos" tvg-name="KANUCA TV BRASIL" tvg-country="BR" tvg-language="Portuguese",KANUCA TV BRASIL
+https://video08.logicahost.com.br/kanucatv/kanucatv/playlist.m3u8
+#EXTINF:-1 group-title="Desenhos" tvg-name="THE SMURFS TV" tvg-country="BR" tvg-language="Portuguese",THE SMURFS TV
+https://d144py1prrd7ns.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-affg2ev32s0dq/smrfe.m3u8
+#EXTINF:-1 group-title="Músicas" tvg-name="AUGE TV MUSIC" tvg-country="BR" tvg-language="Portuguese",AUGE TV MUSIC
+https://video01.logicahost.com.br/augemusic/augemusic/playlist.m3u8
+#EXTINF:-1 group-title="Músicas" tvg-name="NOW 80'S" tvg-country="BR" tvg-language="Portuguese",NOW 80'S
+https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 group-title="Músicas" tvg-name="RETRO PLUS TV" tvg-country="BR" tvg-language="Portuguese",RETRO PLUS TV
+https://video06.logicahost.com.br/aretroplustv01/aretroplustv01/playlist.m3u8
+#EXTINF:-1 group-title="Videoclipes Musical" tvg-name="NOW 80'S" tvg-country="BR" tvg-language="Portuguese",NOW 80'S
+https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 group-title="Videoclipes Musical" tvg-name="RETRO PLUS TV" tvg-country="BR" tvg-language="Portuguese",RETRO PLUS TV
+https://video06.logicahost.com.br/aretroplustv01/aretroplustv01/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-name="KANUCA TV BRASIL" tvg-country="BR" tvg-language="Portuguese",KANUCA TV BRASIL
+https://video08.logicahost.com.br/kanucatv/kanucatv/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-name="THE SMURFS TV" tvg-country="BR" tvg-language="Portuguese",THE SMURFS TV
+https://d144py1prrd7ns.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-affg2ev32s0dq/smrfe.m3u8
